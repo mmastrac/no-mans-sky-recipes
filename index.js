@@ -138,7 +138,7 @@ function writeText(recipes) {
         return stringifyIngredient(recipe.result) + " <- " + recipe.ingredients.map(stringifyIngredient).join(' + ') + "\t" + "[" + recipe.name + "]";
     });
     table.sort();
-    fs.writeFileSync("recipes.txt", table.join('\n'));
+    fs.writeFileSync("docs/recipes.txt", table.join('\n'));
 }
 
 function writeHtml(recipes) {
@@ -175,20 +175,20 @@ function writeHtml(recipes) {
             $('<td>').appendTo(tr).text(stringifyIngredient(i));
         });
     });
-    fs.writeFileSync("recipes.html", $.html());
+    fs.writeFileSync("docs/index.html", $.html());
 }
 
 async function go() {
     const recipes = await loadTables(process.argv[2]);
 
-    console.error("Wrote recipes.json");
-    fs.writeFileSync("recipes.json", JSON.stringify(recipes, null, 2));
+    console.error("Wrote docs/recipes.json");
+    fs.writeFileSync("docs/recipes.json", JSON.stringify(recipes, null, 2));
 
     writeText(recipes);
-    console.error("Wrote recipes.txt");
+    console.error("Wrote docs/recipes.txt");
 
     writeHtml(recipes);
-    console.error("Wrote recipes.html");
+    console.error("Wrote docs/index.html");
 }
 
 go();
