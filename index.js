@@ -156,6 +156,15 @@ function writeHtml(recipes) {
     }
 
     recipes.sort((a, b) => {
+        if (a.result.id == b.result.id) {
+            if (a.ingredients.length == b.ingredients.length) {
+                if (a.result.amount == b.result.amount) {
+                    return a.ingredients[0].id.localeCompare(b.ingredients[0].id);
+                }
+                return a.result.amount - b.result.amount;
+            }
+            return a.ingredients.length - b.ingredients.length;
+        }
         return a.result.id.localeCompare(b.result.id);
     });
 
@@ -175,6 +184,9 @@ function writeHtml(recipes) {
             $('<td>').appendTo(tr).text(stringifyIngredient(i));
         });
     });
+
+    $('<a>').attr('href', 'https://github.com/mmastrac/no-mans-sky-recipes/').text("Source").appendTo(body);
+
     fs.writeFileSync("docs/index.html", $.html());
 }
 
