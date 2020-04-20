@@ -1,0 +1,10736 @@
+[
+  {
+    "name": "Advanced Carbon Processing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Carbon",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      },
+      {
+        "id": "Sodium Nitrate",
+        "amount": "1",
+        "color": [
+          0.9490196,
+          0.427450985,
+          0.08235294
+        ]
+      }
+    ],
+    "result": {
+      "id": "Dioxite",
+      "amount": "1",
+      "color": [
+        0.117647059,
+        0.309803933,
+        0.8156863
+      ]
+    }
+  },
+  {
+    "name": "Advanced Carbon Processing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Condensed Carbon",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      },
+      {
+        "id": "Sodium Nitrate",
+        "amount": "1",
+        "color": [
+          0.9490196,
+          0.427450985,
+          0.08235294
+        ]
+      }
+    ],
+    "result": {
+      "id": "Dioxite",
+      "amount": "2",
+      "color": [
+        0.117647059,
+        0.309803933,
+        0.8156863
+      ]
+    }
+  },
+  {
+    "name": "Advanced Ion Capture",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Pure Ferrite",
+        "amount": "10",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Sodium Nitrate",
+        "amount": "10",
+        "color": [
+          0.9490196,
+          0.427450985,
+          0.08235294
+        ]
+      },
+      {
+        "id": "Silver",
+        "amount": "10",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Advanced Ion Battery",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Advanced Oxygen Capture",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Oxygen",
+        "amount": "10",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      },
+      {
+        "id": "Condensed Carbon",
+        "amount": "10",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      },
+      {
+        "id": "Di-hydrogen",
+        "amount": "10",
+        "color": [
+          0.20784314,
+          0.3529412,
+          0.490196079
+        ]
+      }
+    ],
+    "result": {
+      "id": "Life Support Gel",
+      "amount": "1",
+      "color": [
+        0.7529412,
+        0.09019608,
+        0.274509817
+      ]
+    }
+  },
+  {
+    "name": "Alchemical Construction",
+    "time": 60,
+    "ingredients": [
+      {
+        "id": "Hexite",
+        "amount": "1",
+        "color": [
+          0.870588243,
+          0.8627451,
+          0.819607854
+        ]
+      }
+    ],
+    "result": {
+      "id": "Gold",
+      "amount": "1",
+      "color": [
+        0.6666667,
+        0.431372553,
+        0.0235294122
+      ]
+    }
+  },
+  {
+    "name": "Alchemical Construction",
+    "time": 60,
+    "ingredients": [
+      {
+        "id": "Faecium",
+        "amount": "1",
+        "color": [
+          0.4745098,
+          0.3137255,
+          0.180392161
+        ]
+      },
+      {
+        "id": "Hexite",
+        "amount": "1",
+        "color": [
+          0.870588243,
+          0.8627451,
+          0.819607854
+        ]
+      }
+    ],
+    "result": {
+      "id": "Nanite Cluster",
+      "amount": "1",
+      "color": [
+        0.117647059,
+        0.20784314,
+        0.305882365
+      ]
+    }
+  },
+  {
+    "name": "Alchemical Construction",
+    "time": 60,
+    "ingredients": [
+      {
+        "id": "Faecium",
+        "amount": "1",
+        "color": [
+          0.4745098,
+          0.3137255,
+          0.180392161
+        ]
+      },
+      {
+        "id": "Residual Goop",
+        "amount": "1",
+        "color": [
+          0.356862754,
+          0.435294122,
+          0.20784314
+        ]
+      }
+    ],
+    "result": {
+      "id": "Gold",
+      "amount": "1",
+      "color": [
+        0.6666667,
+        0.431372553,
+        0.0235294122
+      ]
+    }
+  },
+  {
+    "name": "Algal Processing",
+    "time": 60,
+    "ingredients": [
+      {
+        "id": "Cyto-Phosphate",
+        "amount": "1",
+        "color": [
+          0.117647059,
+          0.5411765,
+          0.258823544
+        ]
+      }
+    ],
+    "result": {
+      "id": "Condensed Carbon",
+      "amount": "1",
+      "color": [
+        0.733333349,
+        0.219607845,
+        0.1882353
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Paraffinium",
+        "amount": "30",
+        "color": [
+          0.305882365,
+          0.2509804,
+          0.309803933
+        ]
+      },
+      {
+        "id": "Cobalt",
+        "amount": "60",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Tritium",
+        "amount": "20",
+        "color": [
+          0.870588243,
+          0.8627451,
+          0.819607854
+        ]
+      }
+    ],
+    "result": {
+      "id": "Aronium",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Paraffinium",
+        "amount": "30",
+        "color": [
+          0.305882365,
+          0.2509804,
+          0.309803933
+        ]
+      },
+      {
+        "id": "Ionized Cobalt",
+        "amount": "30",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Tritium",
+        "amount": "20",
+        "color": [
+          0.870588243,
+          0.8627451,
+          0.819607854
+        ]
+      }
+    ],
+    "result": {
+      "id": "Aronium",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Paraffinium",
+        "amount": "30",
+        "color": [
+          0.305882365,
+          0.2509804,
+          0.309803933
+        ]
+      },
+      {
+        "id": "Cobalt",
+        "amount": "60",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Silver",
+        "amount": "20",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Aronium",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Paraffinium",
+        "amount": "30",
+        "color": [
+          0.305882365,
+          0.2509804,
+          0.309803933
+        ]
+      },
+      {
+        "id": "Ionized Cobalt",
+        "amount": "30",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Silver",
+        "amount": "20",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Aronium",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Paraffinium",
+        "amount": "30",
+        "color": [
+          0.305882365,
+          0.2509804,
+          0.309803933
+        ]
+      },
+      {
+        "id": "Cobalt",
+        "amount": "60",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Gold",
+        "amount": "10",
+        "color": [
+          0.6666667,
+          0.431372553,
+          0.0235294122
+        ]
+      }
+    ],
+    "result": {
+      "id": "Aronium",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Paraffinium",
+        "amount": "30",
+        "color": [
+          0.305882365,
+          0.2509804,
+          0.309803933
+        ]
+      },
+      {
+        "id": "Ionized Cobalt",
+        "amount": "30",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Gold",
+        "amount": "10",
+        "color": [
+          0.6666667,
+          0.431372553,
+          0.0235294122
+        ]
+      }
+    ],
+    "result": {
+      "id": "Aronium",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Paraffinium",
+        "amount": "30",
+        "color": [
+          0.305882365,
+          0.2509804,
+          0.309803933
+        ]
+      },
+      {
+        "id": "Cobalt",
+        "amount": "60",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Platinum",
+        "amount": "5",
+        "color": [
+          0.3137255,
+          0.458823532,
+          0.458823532
+        ]
+      }
+    ],
+    "result": {
+      "id": "Aronium",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Paraffinium",
+        "amount": "30",
+        "color": [
+          0.305882365,
+          0.2509804,
+          0.309803933
+        ]
+      },
+      {
+        "id": "Ionized Cobalt",
+        "amount": "30",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Platinum",
+        "amount": "5",
+        "color": [
+          0.3137255,
+          0.458823532,
+          0.458823532
+        ]
+      }
+    ],
+    "result": {
+      "id": "Aronium",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Pyrite",
+        "amount": "30",
+        "color": [
+          0.8980392,
+          0.4392157,
+          0.007843138
+        ]
+      },
+      {
+        "id": "Ferrite Dust",
+        "amount": "120",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Tritium",
+        "amount": "20",
+        "color": [
+          0.870588243,
+          0.8627451,
+          0.819607854
+        ]
+      }
+    ],
+    "result": {
+      "id": "Dirty Bronze",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Pyrite",
+        "amount": "30",
+        "color": [
+          0.8980392,
+          0.4392157,
+          0.007843138
+        ]
+      },
+      {
+        "id": "Pure Ferrite",
+        "amount": "60",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Tritium",
+        "amount": "20",
+        "color": [
+          0.870588243,
+          0.8627451,
+          0.819607854
+        ]
+      }
+    ],
+    "result": {
+      "id": "Dirty Bronze",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Pyrite",
+        "amount": "30",
+        "color": [
+          0.8980392,
+          0.4392157,
+          0.007843138
+        ]
+      },
+      {
+        "id": "Ferrite Dust",
+        "amount": "120",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Silver",
+        "amount": "20",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Dirty Bronze",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Pyrite",
+        "amount": "30",
+        "color": [
+          0.8980392,
+          0.4392157,
+          0.007843138
+        ]
+      },
+      {
+        "id": "Pure Ferrite",
+        "amount": "60",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Silver",
+        "amount": "20",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Dirty Bronze",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Pyrite",
+        "amount": "30",
+        "color": [
+          0.8980392,
+          0.4392157,
+          0.007843138
+        ]
+      },
+      {
+        "id": "Ferrite Dust",
+        "amount": "120",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Gold",
+        "amount": "10",
+        "color": [
+          0.6666667,
+          0.431372553,
+          0.0235294122
+        ]
+      }
+    ],
+    "result": {
+      "id": "Dirty Bronze",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Pyrite",
+        "amount": "30",
+        "color": [
+          0.8980392,
+          0.4392157,
+          0.007843138
+        ]
+      },
+      {
+        "id": "Pure Ferrite",
+        "amount": "60",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Gold",
+        "amount": "10",
+        "color": [
+          0.6666667,
+          0.431372553,
+          0.0235294122
+        ]
+      }
+    ],
+    "result": {
+      "id": "Dirty Bronze",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Pyrite",
+        "amount": "30",
+        "color": [
+          0.8980392,
+          0.4392157,
+          0.007843138
+        ]
+      },
+      {
+        "id": "Ferrite Dust",
+        "amount": "120",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Platinum",
+        "amount": "5",
+        "color": [
+          0.3137255,
+          0.458823532,
+          0.458823532
+        ]
+      }
+    ],
+    "result": {
+      "id": "Dirty Bronze",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Pyrite",
+        "amount": "30",
+        "color": [
+          0.8980392,
+          0.4392157,
+          0.007843138
+        ]
+      },
+      {
+        "id": "Pure Ferrite",
+        "amount": "60",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Platinum",
+        "amount": "5",
+        "color": [
+          0.3137255,
+          0.458823532,
+          0.458823532
+        ]
+      }
+    ],
+    "result": {
+      "id": "Dirty Bronze",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Ammonia",
+        "amount": "30",
+        "color": [
+          0,
+          0.6509804,
+          0.3019608
+        ]
+      },
+      {
+        "id": "Cobalt",
+        "amount": "60",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Tritium",
+        "amount": "20",
+        "color": [
+          0.870588243,
+          0.8627451,
+          0.819607854
+        ]
+      }
+    ],
+    "result": {
+      "id": "Herox",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Ammonia",
+        "amount": "30",
+        "color": [
+          0,
+          0.6509804,
+          0.3019608
+        ]
+      },
+      {
+        "id": "Ionized Cobalt",
+        "amount": "30",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Tritium",
+        "amount": "20",
+        "color": [
+          0.870588243,
+          0.8627451,
+          0.819607854
+        ]
+      }
+    ],
+    "result": {
+      "id": "Herox",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Ammonia",
+        "amount": "30",
+        "color": [
+          0,
+          0.6509804,
+          0.3019608
+        ]
+      },
+      {
+        "id": "Cobalt",
+        "amount": "60",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Silver",
+        "amount": "20",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Herox",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Ammonia",
+        "amount": "30",
+        "color": [
+          0,
+          0.6509804,
+          0.3019608
+        ]
+      },
+      {
+        "id": "Ionized Cobalt",
+        "amount": "30",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Silver",
+        "amount": "20",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Herox",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Ammonia",
+        "amount": "30",
+        "color": [
+          0,
+          0.6509804,
+          0.3019608
+        ]
+      },
+      {
+        "id": "Cobalt",
+        "amount": "60",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Gold",
+        "amount": "10",
+        "color": [
+          0.6666667,
+          0.431372553,
+          0.0235294122
+        ]
+      }
+    ],
+    "result": {
+      "id": "Herox",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Ammonia",
+        "amount": "30",
+        "color": [
+          0,
+          0.6509804,
+          0.3019608
+        ]
+      },
+      {
+        "id": "Ionized Cobalt",
+        "amount": "30",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Gold",
+        "amount": "10",
+        "color": [
+          0.6666667,
+          0.431372553,
+          0.0235294122
+        ]
+      }
+    ],
+    "result": {
+      "id": "Herox",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Ammonia",
+        "amount": "30",
+        "color": [
+          0,
+          0.6509804,
+          0.3019608
+        ]
+      },
+      {
+        "id": "Cobalt",
+        "amount": "60",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Platinum",
+        "amount": "5",
+        "color": [
+          0.3137255,
+          0.458823532,
+          0.458823532
+        ]
+      }
+    ],
+    "result": {
+      "id": "Herox",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Ammonia",
+        "amount": "30",
+        "color": [
+          0,
+          0.6509804,
+          0.3019608
+        ]
+      },
+      {
+        "id": "Ionized Cobalt",
+        "amount": "30",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Platinum",
+        "amount": "5",
+        "color": [
+          0.3137255,
+          0.458823532,
+          0.458823532
+        ]
+      }
+    ],
+    "result": {
+      "id": "Herox",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Uranium",
+        "amount": "30",
+        "color": [
+          1,
+          0.6784314,
+          0
+        ]
+      },
+      {
+        "id": "Ferrite Dust",
+        "amount": "120",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Tritium",
+        "amount": "20",
+        "color": [
+          0.870588243,
+          0.8627451,
+          0.819607854
+        ]
+      }
+    ],
+    "result": {
+      "id": "Lemmium",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Uranium",
+        "amount": "30",
+        "color": [
+          1,
+          0.6784314,
+          0
+        ]
+      },
+      {
+        "id": "Pure Ferrite",
+        "amount": "60",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Tritium",
+        "amount": "20",
+        "color": [
+          0.870588243,
+          0.8627451,
+          0.819607854
+        ]
+      }
+    ],
+    "result": {
+      "id": "Lemmium",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Uranium",
+        "amount": "30",
+        "color": [
+          1,
+          0.6784314,
+          0
+        ]
+      },
+      {
+        "id": "Ferrite Dust",
+        "amount": "120",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Silver",
+        "amount": "20",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Lemmium",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Uranium",
+        "amount": "30",
+        "color": [
+          1,
+          0.6784314,
+          0
+        ]
+      },
+      {
+        "id": "Pure Ferrite",
+        "amount": "60",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Silver",
+        "amount": "20",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Lemmium",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Uranium",
+        "amount": "30",
+        "color": [
+          1,
+          0.6784314,
+          0
+        ]
+      },
+      {
+        "id": "Ferrite Dust",
+        "amount": "120",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Gold",
+        "amount": "10",
+        "color": [
+          0.6666667,
+          0.431372553,
+          0.0235294122
+        ]
+      }
+    ],
+    "result": {
+      "id": "Lemmium",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Uranium",
+        "amount": "30",
+        "color": [
+          1,
+          0.6784314,
+          0
+        ]
+      },
+      {
+        "id": "Pure Ferrite",
+        "amount": "60",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Gold",
+        "amount": "10",
+        "color": [
+          0.6666667,
+          0.431372553,
+          0.0235294122
+        ]
+      }
+    ],
+    "result": {
+      "id": "Lemmium",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Uranium",
+        "amount": "30",
+        "color": [
+          1,
+          0.6784314,
+          0
+        ]
+      },
+      {
+        "id": "Ferrite Dust",
+        "amount": "120",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Platinum",
+        "amount": "5",
+        "color": [
+          0.3137255,
+          0.458823532,
+          0.458823532
+        ]
+      }
+    ],
+    "result": {
+      "id": "Lemmium",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Uranium",
+        "amount": "30",
+        "color": [
+          1,
+          0.6784314,
+          0
+        ]
+      },
+      {
+        "id": "Pure Ferrite",
+        "amount": "60",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Platinum",
+        "amount": "5",
+        "color": [
+          0.3137255,
+          0.458823532,
+          0.458823532
+        ]
+      }
+    ],
+    "result": {
+      "id": "Lemmium",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Phosphorus",
+        "amount": "30",
+        "color": [
+          0.858823538,
+          0.141176477,
+          0
+        ]
+      },
+      {
+        "id": "Cobalt",
+        "amount": "60",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Tritium",
+        "amount": "20",
+        "color": [
+          0.870588243,
+          0.8627451,
+          0.819607854
+        ]
+      }
+    ],
+    "result": {
+      "id": "Magno-Gold",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Phosphorus",
+        "amount": "30",
+        "color": [
+          0.858823538,
+          0.141176477,
+          0
+        ]
+      },
+      {
+        "id": "Ionized Cobalt",
+        "amount": "30",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Tritium",
+        "amount": "20",
+        "color": [
+          0.870588243,
+          0.8627451,
+          0.819607854
+        ]
+      }
+    ],
+    "result": {
+      "id": "Magno-Gold",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Phosphorus",
+        "amount": "30",
+        "color": [
+          0.858823538,
+          0.141176477,
+          0
+        ]
+      },
+      {
+        "id": "Cobalt",
+        "amount": "60",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Silver",
+        "amount": "20",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Magno-Gold",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Phosphorus",
+        "amount": "30",
+        "color": [
+          0.858823538,
+          0.141176477,
+          0
+        ]
+      },
+      {
+        "id": "Ionized Cobalt",
+        "amount": "30",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Silver",
+        "amount": "20",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Magno-Gold",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Phosphorus",
+        "amount": "30",
+        "color": [
+          0.858823538,
+          0.141176477,
+          0
+        ]
+      },
+      {
+        "id": "Cobalt",
+        "amount": "60",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Gold",
+        "amount": "10",
+        "color": [
+          0.6666667,
+          0.431372553,
+          0.0235294122
+        ]
+      }
+    ],
+    "result": {
+      "id": "Magno-Gold",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Phosphorus",
+        "amount": "30",
+        "color": [
+          0.858823538,
+          0.141176477,
+          0
+        ]
+      },
+      {
+        "id": "Ionized Cobalt",
+        "amount": "30",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Gold",
+        "amount": "10",
+        "color": [
+          0.6666667,
+          0.431372553,
+          0.0235294122
+        ]
+      }
+    ],
+    "result": {
+      "id": "Magno-Gold",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Phosphorus",
+        "amount": "30",
+        "color": [
+          0.858823538,
+          0.141176477,
+          0
+        ]
+      },
+      {
+        "id": "Cobalt",
+        "amount": "60",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Platinum",
+        "amount": "5",
+        "color": [
+          0.3137255,
+          0.458823532,
+          0.458823532
+        ]
+      }
+    ],
+    "result": {
+      "id": "Magno-Gold",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Phosphorus",
+        "amount": "30",
+        "color": [
+          0.858823538,
+          0.141176477,
+          0
+        ]
+      },
+      {
+        "id": "Ionized Cobalt",
+        "amount": "30",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Platinum",
+        "amount": "5",
+        "color": [
+          0.3137255,
+          0.458823532,
+          0.458823532
+        ]
+      }
+    ],
+    "result": {
+      "id": "Magno-Gold",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Dioxite",
+        "amount": "30",
+        "color": [
+          0.117647059,
+          0.309803933,
+          0.8156863
+        ]
+      },
+      {
+        "id": "Cobalt",
+        "amount": "60",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Tritium",
+        "amount": "20",
+        "color": [
+          0.870588243,
+          0.8627451,
+          0.819607854
+        ]
+      }
+    ],
+    "result": {
+      "id": "Grantine",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Dioxite",
+        "amount": "30",
+        "color": [
+          0.117647059,
+          0.309803933,
+          0.8156863
+        ]
+      },
+      {
+        "id": "Ionized Cobalt",
+        "amount": "30",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Tritium",
+        "amount": "20",
+        "color": [
+          0.870588243,
+          0.8627451,
+          0.819607854
+        ]
+      }
+    ],
+    "result": {
+      "id": "Grantine",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Dioxite",
+        "amount": "30",
+        "color": [
+          0.117647059,
+          0.309803933,
+          0.8156863
+        ]
+      },
+      {
+        "id": "Cobalt",
+        "amount": "60",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Silver",
+        "amount": "20",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Grantine",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Dioxite",
+        "amount": "30",
+        "color": [
+          0.117647059,
+          0.309803933,
+          0.8156863
+        ]
+      },
+      {
+        "id": "Ionized Cobalt",
+        "amount": "30",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Silver",
+        "amount": "20",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Grantine",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Dioxite",
+        "amount": "30",
+        "color": [
+          0.117647059,
+          0.309803933,
+          0.8156863
+        ]
+      },
+      {
+        "id": "Cobalt",
+        "amount": "60",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Gold",
+        "amount": "10",
+        "color": [
+          0.6666667,
+          0.431372553,
+          0.0235294122
+        ]
+      }
+    ],
+    "result": {
+      "id": "Grantine",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Dioxite",
+        "amount": "30",
+        "color": [
+          0.117647059,
+          0.309803933,
+          0.8156863
+        ]
+      },
+      {
+        "id": "Ionized Cobalt",
+        "amount": "30",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Gold",
+        "amount": "10",
+        "color": [
+          0.6666667,
+          0.431372553,
+          0.0235294122
+        ]
+      }
+    ],
+    "result": {
+      "id": "Grantine",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Dioxite",
+        "amount": "30",
+        "color": [
+          0.117647059,
+          0.309803933,
+          0.8156863
+        ]
+      },
+      {
+        "id": "Cobalt",
+        "amount": "60",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Platinum",
+        "amount": "5",
+        "color": [
+          0.3137255,
+          0.458823532,
+          0.458823532
+        ]
+      }
+    ],
+    "result": {
+      "id": "Grantine",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Alloy Latticing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Dioxite",
+        "amount": "30",
+        "color": [
+          0.117647059,
+          0.309803933,
+          0.8156863
+        ]
+      },
+      {
+        "id": "Ionized Cobalt",
+        "amount": "30",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Platinum",
+        "amount": "5",
+        "color": [
+          0.3137255,
+          0.458823532,
+          0.458823532
+        ]
+      }
+    ],
+    "result": {
+      "id": "Grantine",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Anomaly / Organic Hybridization",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Carbon",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      },
+      {
+        "id": "Pugneum",
+        "amount": "1",
+        "color": [
+          0.3019608,
+          0.160784319,
+          0.34117648
+        ]
+      }
+    ],
+    "result": {
+      "id": "Mordite",
+      "amount": "1",
+      "color": [
+        0.31764707,
+        0.152941182,
+        0.254901975
+      ]
+    }
+  },
+  {
+    "name": "Anomaly / Organic Hybridization",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Condensed Carbon",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      },
+      {
+        "id": "Pugneum",
+        "amount": "1",
+        "color": [
+          0.3019608,
+          0.160784319,
+          0.34117648
+        ]
+      }
+    ],
+    "result": {
+      "id": "Mordite",
+      "amount": "2",
+      "color": [
+        0.31764707,
+        0.152941182,
+        0.254901975
+      ]
+    }
+  },
+  {
+    "name": "Antimatter Bypass",
+    "time": 600,
+    "ingredients": [
+      {
+        "id": "Condensed Carbon",
+        "amount": "25",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      },
+      {
+        "id": "Sodium",
+        "amount": "10",
+        "color": [
+          0.9490196,
+          0.427450985,
+          0.08235294
+        ]
+      },
+      {
+        "id": "Chromatic Metal",
+        "amount": "250",
+        "color": [
+          0.149019614,
+          0,
+          0
+        ]
+      }
+    ],
+    "result": {
+      "id": "Warp Cell",
+      "amount": "1",
+      "color": [
+        0.7529412,
+        0.09019608,
+        0.274509817
+      ]
+    }
+  },
+  {
+    "name": "Antimatter Bypass",
+    "time": 600,
+    "ingredients": [
+      {
+        "id": "Carbon",
+        "amount": "50",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      },
+      {
+        "id": "Sodium Nitrate",
+        "amount": "5",
+        "color": [
+          0.9490196,
+          0.427450985,
+          0.08235294
+        ]
+      },
+      {
+        "id": "Chromatic Metal",
+        "amount": "250",
+        "color": [
+          0.149019614,
+          0,
+          0
+        ]
+      }
+    ],
+    "result": {
+      "id": "Warp Cell",
+      "amount": "1",
+      "color": [
+        0.7529412,
+        0.09019608,
+        0.274509817
+      ]
+    }
+  },
+  {
+    "name": "Antimatter Bypass",
+    "time": 600,
+    "ingredients": [
+      {
+        "id": "Condensed Carbon",
+        "amount": "25",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      },
+      {
+        "id": "Sodium Nitrate",
+        "amount": "5",
+        "color": [
+          0.9490196,
+          0.427450985,
+          0.08235294
+        ]
+      },
+      {
+        "id": "Chromatic Metal",
+        "amount": "250",
+        "color": [
+          0.149019614,
+          0,
+          0
+        ]
+      }
+    ],
+    "result": {
+      "id": "Warp Cell",
+      "amount": "1",
+      "color": [
+        0.7529412,
+        0.09019608,
+        0.274509817
+      ]
+    }
+  },
+  {
+    "name": "Artificial Photosynthesis",
+    "time": 900,
+    "ingredients": [
+      {
+        "id": "Fungal Mold",
+        "amount": "1",
+        "color": [
+          0,
+          0.6509804,
+          0.3019608
+        ]
+      },
+      {
+        "id": "Kelp Sac",
+        "amount": "1",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Condensed Carbon",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Oxygen",
+      "amount": "10",
+      "color": [
+        0.733333349,
+        0.219607845,
+        0.1882353
+      ]
+    }
+  },
+  {
+    "name": "Artificial Photosynthesis",
+    "time": 900,
+    "ingredients": [
+      {
+        "id": "Frost Crystal",
+        "amount": "1",
+        "color": [
+          0.117647059,
+          0.309803933,
+          0.8156863
+        ]
+      },
+      {
+        "id": "Kelp Sac",
+        "amount": "1",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Condensed Carbon",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Oxygen",
+      "amount": "10",
+      "color": [
+        0.733333349,
+        0.219607845,
+        0.1882353
+      ]
+    }
+  },
+  {
+    "name": "Artificial Photosynthesis",
+    "time": 900,
+    "ingredients": [
+      {
+        "id": "Cactus Flesh",
+        "amount": "1",
+        "color": [
+          0.137254909,
+          0.5882353,
+          0.149019614
+        ]
+      },
+      {
+        "id": "Kelp Sac",
+        "amount": "1",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Condensed Carbon",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Oxygen",
+      "amount": "10",
+      "color": [
+        0.733333349,
+        0.219607845,
+        0.1882353
+      ]
+    }
+  },
+  {
+    "name": "Artificial Photosynthesis",
+    "time": 900,
+    "ingredients": [
+      {
+        "id": "Solanium",
+        "amount": "1",
+        "color": [
+          0.7254902,
+          0.2627451,
+          0.09411765
+        ]
+      },
+      {
+        "id": "Kelp Sac",
+        "amount": "1",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Condensed Carbon",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Oxygen",
+      "amount": "10",
+      "color": [
+        0.733333349,
+        0.219607845,
+        0.1882353
+      ]
+    }
+  },
+  {
+    "name": "Artificial Photosynthesis",
+    "time": 900,
+    "ingredients": [
+      {
+        "id": "Gamma Root",
+        "amount": "1",
+        "color": [
+          0.772549033,
+          0.5294118,
+          0.113725491
+        ]
+      },
+      {
+        "id": "Kelp Sac",
+        "amount": "1",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Condensed Carbon",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Oxygen",
+      "amount": "10",
+      "color": [
+        0.733333349,
+        0.219607845,
+        0.1882353
+      ]
+    }
+  },
+  {
+    "name": "Artificial Photosynthesis",
+    "time": 900,
+    "ingredients": [
+      {
+        "id": "Star Bulb",
+        "amount": "1",
+        "color": [
+          0.1254902,
+          0.5529412,
+          0.670588255
+        ]
+      },
+      {
+        "id": "Kelp Sac",
+        "amount": "1",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Condensed Carbon",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Oxygen",
+      "amount": "10",
+      "color": [
+        0.733333349,
+        0.219607845,
+        0.1882353
+      ]
+    }
+  },
+  {
+    "name": "Assisted Decomposition",
+    "time": 60,
+    "ingredients": [
+      {
+        "id": "Mordite",
+        "amount": "3",
+        "color": [
+          0.31764707,
+          0.152941182,
+          0.254901975
+        ]
+      }
+    ],
+    "result": {
+      "id": "Faecium",
+      "amount": "1",
+      "color": [
+        0.4745098,
+        0.3137255,
+        0.180392161
+      ]
+    }
+  },
+  {
+    "name": "Assisted Decomposition",
+    "time": 20,
+    "ingredients": [
+      {
+        "id": "Di-hydrogen",
+        "amount": "1",
+        "color": [
+          0.20784314,
+          0.3529412,
+          0.490196079
+        ]
+      },
+      {
+        "id": "Carbon",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Faecium",
+      "amount": "1",
+      "color": [
+        0.4745098,
+        0.3137255,
+        0.180392161
+      ]
+    }
+  },
+  {
+    "name": "Biological Purge",
+    "time": 60,
+    "ingredients": [
+      {
+        "id": "Hypnotic Eye",
+        "amount": "1",
+        "color": [
+          0.8,
+          0.8,
+          0.8
+        ]
+      }
+    ],
+    "result": {
+      "id": "Living Slime",
+      "amount": "50",
+      "color": [
+        0.356862754,
+        0.435294122,
+        0.20784314
+      ]
+    }
+  },
+  {
+    "name": "Bonded Chlorine Extraction",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Kelp Sac",
+        "amount": "1",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Oxygen",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Chlorine",
+      "amount": "2",
+      "color": [
+        0.117647059,
+        0.5411765,
+        0.258823544
+      ]
+    }
+  },
+  {
+    "name": "Bonded Cobalt Extraction",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Marrow Bulb",
+        "amount": "1",
+        "color": [
+          0.356862754,
+          0.435294122,
+          0.20784314
+        ]
+      },
+      {
+        "id": "Oxygen",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Ionized Cobalt",
+      "amount": "2",
+      "color": [
+        0,
+        0.360784322,
+        0.5137255
+      ]
+    }
+  },
+  {
+    "name": "Burn Plantlife",
+    "time": 30,
+    "ingredients": [
+      {
+        "id": "Fungal Mold",
+        "amount": "1",
+        "color": [
+          0,
+          0.6509804,
+          0.3019608
+        ]
+      }
+    ],
+    "result": {
+      "id": "Carbon",
+      "amount": "2",
+      "color": [
+        0.733333349,
+        0.219607845,
+        0.1882353
+      ]
+    }
+  },
+  {
+    "name": "Burn Plantlife",
+    "time": 30,
+    "ingredients": [
+      {
+        "id": "Gamma Root",
+        "amount": "1",
+        "color": [
+          0.772549033,
+          0.5294118,
+          0.113725491
+        ]
+      }
+    ],
+    "result": {
+      "id": "Carbon",
+      "amount": "2",
+      "color": [
+        0.733333349,
+        0.219607845,
+        0.1882353
+      ]
+    }
+  },
+  {
+    "name": "Burn Plantlife",
+    "time": 30,
+    "ingredients": [
+      {
+        "id": "Cactus Flesh",
+        "amount": "1",
+        "color": [
+          0.137254909,
+          0.5882353,
+          0.149019614
+        ]
+      }
+    ],
+    "result": {
+      "id": "Carbon",
+      "amount": "2",
+      "color": [
+        0.733333349,
+        0.219607845,
+        0.1882353
+      ]
+    }
+  },
+  {
+    "name": "Burn Plantlife",
+    "time": 30,
+    "ingredients": [
+      {
+        "id": "Solanium",
+        "amount": "1",
+        "color": [
+          0.7254902,
+          0.2627451,
+          0.09411765
+        ]
+      }
+    ],
+    "result": {
+      "id": "Carbon",
+      "amount": "2",
+      "color": [
+        0.733333349,
+        0.219607845,
+        0.1882353
+      ]
+    }
+  },
+  {
+    "name": "Burn Plantlife",
+    "time": 30,
+    "ingredients": [
+      {
+        "id": "Star Bulb",
+        "amount": "1",
+        "color": [
+          0.1254902,
+          0.5529412,
+          0.670588255
+        ]
+      }
+    ],
+    "result": {
+      "id": "Carbon",
+      "amount": "2",
+      "color": [
+        0.733333349,
+        0.219607845,
+        0.1882353
+      ]
+    }
+  },
+  {
+    "name": "Calcite Transmutation",
+    "time": 60,
+    "ingredients": [
+      {
+        "id": "Living Pearl",
+        "amount": "1",
+        "color": [
+          0.8,
+          0.8,
+          0.8
+        ]
+      }
+    ],
+    "result": {
+      "id": "Gold",
+      "amount": "100",
+      "color": [
+        0.6666667,
+        0.431372553,
+        0.0235294122
+      ]
+    }
+  },
+  {
+    "name": "Carbon Crystallization",
+    "time": 120,
+    "ingredients": [
+      {
+        "id": "Carbon",
+        "amount": "50",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      },
+      {
+        "id": "Condensed Carbon",
+        "amount": "50",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Carbon Crystal",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Carbon Crystallization",
+    "time": 200,
+    "ingredients": [
+      {
+        "id": "Carbon",
+        "amount": "40",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      },
+      {
+        "id": "Condensed Carbon",
+        "amount": "40",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      },
+      {
+        "id": "Tritium",
+        "amount": "50",
+        "color": [
+          0.870588243,
+          0.8627451,
+          0.819607854
+        ]
+      }
+    ],
+    "result": {
+      "id": "Carbon Crystal",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Carbon Melting",
+    "time": 200,
+    "ingredients": [
+      {
+        "id": "Carbon Crystal",
+        "amount": "1",
+        "color": [
+          0.9529412,
+          0.6627451,
+          0.137254909
+        ]
+      }
+    ],
+    "result": {
+      "id": "Condensed Carbon",
+      "amount": "150",
+      "color": [
+        0.733333349,
+        0.219607845,
+        0.1882353
+      ]
+    }
+  },
+  {
+    "name": "Carbonize Metal",
+    "time": 60,
+    "ingredients": [
+      {
+        "id": "Ferrite Dust",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Carbon",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Magnetized Ferrite",
+      "amount": "1",
+      "color": [
+        0.5411765,
+        0.498039216,
+        0.447058827
+      ]
+    }
+  },
+  {
+    "name": "Carbonize Metal",
+    "time": 60,
+    "ingredients": [
+      {
+        "id": "Ferrite Dust",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Condensed Carbon",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Magnetized Ferrite",
+      "amount": "2",
+      "color": [
+        0.5411765,
+        0.498039216,
+        0.447058827
+      ]
+    }
+  },
+  {
+    "name": "Carbonize Metal",
+    "time": 60,
+    "ingredients": [
+      {
+        "id": "Pure Ferrite",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Carbon",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Magnetized Ferrite",
+      "amount": "2",
+      "color": [
+        0.5411765,
+        0.498039216,
+        0.447058827
+      ]
+    }
+  },
+  {
+    "name": "Carbonize Metal",
+    "time": 60,
+    "ingredients": [
+      {
+        "id": "Pure Ferrite",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Condensed Carbon",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Magnetized Ferrite",
+      "amount": "3",
+      "color": [
+        0.5411765,
+        0.498039216,
+        0.447058827
+      ]
+    }
+  },
+  {
+    "name": "Catalyze Carbon",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Carbon",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      },
+      {
+        "id": "Sodium",
+        "amount": "1",
+        "color": [
+          0.9490196,
+          0.427450985,
+          0.08235294
+        ]
+      }
+    ],
+    "result": {
+      "id": "Sodium Nitrate",
+      "amount": "1",
+      "color": [
+        0.9490196,
+        0.427450985,
+        0.08235294
+      ]
+    }
+  },
+  {
+    "name": "Catalyze Carbon",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Condensed Carbon",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      },
+      {
+        "id": "Sodium",
+        "amount": "1",
+        "color": [
+          0.9490196,
+          0.427450985,
+          0.08235294
+        ]
+      }
+    ],
+    "result": {
+      "id": "Sodium Nitrate",
+      "amount": "2",
+      "color": [
+        0.9490196,
+        0.427450985,
+        0.08235294
+      ]
+    }
+  },
+  {
+    "name": "Catalyze Radiation",
+    "time": 40,
+    "ingredients": [
+      {
+        "id": "Radon",
+        "amount": "1",
+        "color": [
+          0.298039228,
+          0.215686277,
+          0.5019608
+        ]
+      },
+      {
+        "id": "Di-hydrogen",
+        "amount": "1",
+        "color": [
+          0.20784314,
+          0.3529412,
+          0.490196079
+        ]
+      }
+    ],
+    "result": {
+      "id": "Uranium",
+      "amount": "1",
+      "color": [
+        1,
+        0.6784314,
+        0
+      ]
+    }
+  },
+  {
+    "name": "Chloride De-latticing",
+    "time": 200,
+    "ingredients": [
+      {
+        "id": "Chloride Lattice",
+        "amount": "1",
+        "color": [
+          0.9529412,
+          0.6627451,
+          0.137254909
+        ]
+      }
+    ],
+    "result": {
+      "id": "Chlorine",
+      "amount": "150",
+      "color": [
+        0.117647059,
+        0.5411765,
+        0.258823544
+      ]
+    }
+  },
+  {
+    "name": "Chlorine Expansion",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Chlorine",
+        "amount": "1",
+        "color": [
+          0.117647059,
+          0.5411765,
+          0.258823544
+        ]
+      },
+      {
+        "id": "Oxygen",
+        "amount": "2",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Chlorine",
+      "amount": "6",
+      "color": [
+        0.117647059,
+        0.5411765,
+        0.258823544
+      ]
+    }
+  },
+  {
+    "name": "Chlorine Latticing",
+    "time": 120,
+    "ingredients": [
+      {
+        "id": "Salt",
+        "amount": "50",
+        "color": [
+          0.117647059,
+          0.5411765,
+          0.258823544
+        ]
+      },
+      {
+        "id": "Chlorine",
+        "amount": "50",
+        "color": [
+          0.117647059,
+          0.5411765,
+          0.258823544
+        ]
+      }
+    ],
+    "result": {
+      "id": "Chloride Lattice",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Chlorine Latticing",
+    "time": 200,
+    "ingredients": [
+      {
+        "id": "Salt",
+        "amount": "40",
+        "color": [
+          0.117647059,
+          0.5411765,
+          0.258823544
+        ]
+      },
+      {
+        "id": "Chlorine",
+        "amount": "40",
+        "color": [
+          0.117647059,
+          0.5411765,
+          0.258823544
+        ]
+      },
+      {
+        "id": "Tritium",
+        "amount": "50",
+        "color": [
+          0.870588243,
+          0.8627451,
+          0.819607854
+        ]
+      }
+    ],
+    "result": {
+      "id": "Chloride Lattice",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Chromatic Alchemy",
+    "time": 1200,
+    "ingredients": [
+      {
+        "id": "Ferrite Dust",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Oxygen",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      },
+      {
+        "id": "Emeril",
+        "amount": "1",
+        "color": [
+          0.211764708,
+          0.380392164,
+          0.109803922
+        ]
+      }
+    ],
+    "result": {
+      "id": "Gold",
+      "amount": "10",
+      "color": [
+        0.6666667,
+        0.431372553,
+        0.0235294122
+      ]
+    }
+  },
+  {
+    "name": "Chromatic Alchemy",
+    "time": 1200,
+    "ingredients": [
+      {
+        "id": "Ferrite Dust",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Oxygen",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      },
+      {
+        "id": "Chromatic Metal",
+        "amount": "250",
+        "color": [
+          0.149019614,
+          0,
+          0
+        ]
+      }
+    ],
+    "result": {
+      "id": "Platinum",
+      "amount": "10",
+      "color": [
+        0.3137255,
+        0.458823532,
+        0.458823532
+      ]
+    }
+  },
+  {
+    "name": "Chromatic Expansion",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Cadmium",
+        "amount": "1",
+        "color": [
+          0.482352942,
+          0,
+          0
+        ]
+      },
+      {
+        "id": "Chromatic Metal",
+        "amount": "1",
+        "color": [
+          0.149019614,
+          0,
+          0
+        ]
+      }
+    ],
+    "result": {
+      "id": "Cadmium",
+      "amount": "2",
+      "color": [
+        0.482352942,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "Chromatic Expansion",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Indium",
+        "amount": "1",
+        "color": [
+          0.003921569,
+          0.219607845,
+          0.490196079
+        ]
+      },
+      {
+        "id": "Chromatic Metal",
+        "amount": "1",
+        "color": [
+          0.149019614,
+          0,
+          0
+        ]
+      }
+    ],
+    "result": {
+      "id": "Indium",
+      "amount": "2",
+      "color": [
+        0.003921569,
+        0.219607845,
+        0.490196079
+      ]
+    }
+  },
+  {
+    "name": "Chromatic Expansion",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Emeril",
+        "amount": "1",
+        "color": [
+          0.211764708,
+          0.380392164,
+          0.109803922
+        ]
+      },
+      {
+        "id": "Chromatic Metal",
+        "amount": "1",
+        "color": [
+          0.149019614,
+          0,
+          0
+        ]
+      }
+    ],
+    "result": {
+      "id": "Emeril",
+      "amount": "2",
+      "color": [
+        0.211764708,
+        0.380392164,
+        0.109803922
+      ]
+    }
+  },
+  {
+    "name": "Chromatic Expansion",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Copper",
+        "amount": "1",
+        "color": [
+          0.8980392,
+          0.5647059,
+          0.003921569
+        ]
+      },
+      {
+        "id": "Chromatic Metal",
+        "amount": "1",
+        "color": [
+          0.149019614,
+          0,
+          0
+        ]
+      }
+    ],
+    "result": {
+      "id": "Copper",
+      "amount": "2",
+      "color": [
+        0.8980392,
+        0.5647059,
+        0.003921569
+      ]
+    }
+  },
+  {
+    "name": "Chromatic Metal Fusion",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Cadmium",
+        "amount": "1",
+        "color": [
+          0.482352942,
+          0,
+          0
+        ]
+      },
+      {
+        "id": "Pure Ferrite",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Chromatic Metal",
+      "amount": "2",
+      "color": [
+        0.149019614,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "Chromatic Metal Fusion",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Emeril",
+        "amount": "1",
+        "color": [
+          0.211764708,
+          0.380392164,
+          0.109803922
+        ]
+      },
+      {
+        "id": "Pure Ferrite",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Chromatic Metal",
+      "amount": "3",
+      "color": [
+        0.149019614,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "Chromatic Metal Fusion",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Copper",
+        "amount": "1",
+        "color": [
+          0.8980392,
+          0.5647059,
+          0.003921569
+        ]
+      },
+      {
+        "id": "Pure Ferrite",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Chromatic Metal",
+      "amount": "1",
+      "color": [
+        0.149019614,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "Chromatic Metal Fusion",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Indium",
+        "amount": "1",
+        "color": [
+          0.003921569,
+          0.219607845,
+          0.490196079
+        ]
+      },
+      {
+        "id": "Pure Ferrite",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Chromatic Metal",
+      "amount": "4",
+      "color": [
+        0.149019614,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "Chromatic Metal Fusion",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Activated Cadmium",
+        "amount": "1",
+        "color": [
+          0.482352942,
+          0,
+          0
+        ]
+      },
+      {
+        "id": "Pure Ferrite",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Chromatic Metal",
+      "amount": "4",
+      "color": [
+        0.149019614,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "Chromatic Metal Fusion",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Activated Indium",
+        "amount": "1",
+        "color": [
+          0.003921569,
+          0.219607845,
+          0.490196079
+        ]
+      },
+      {
+        "id": "Pure Ferrite",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Chromatic Metal",
+      "amount": "8",
+      "color": [
+        0.149019614,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "Chromatic Metal Fusion",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Activated Emeril",
+        "amount": "1",
+        "color": [
+          0.211764708,
+          0.380392164,
+          0.109803922
+        ]
+      },
+      {
+        "id": "Pure Ferrite",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Chromatic Metal",
+      "amount": "6",
+      "color": [
+        0.149019614,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "Chromatic Metal Fusion",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Activated Copper",
+        "amount": "1",
+        "color": [
+          0.8980392,
+          0.5647059,
+          0.003921569
+        ]
+      },
+      {
+        "id": "Pure Ferrite",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Chromatic Metal",
+      "amount": "2",
+      "color": [
+        0.149019614,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "Chromatic Stellar Fusion",
+    "time": 1200,
+    "ingredients": [
+      {
+        "id": "Silver",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Gold",
+        "amount": "1",
+        "color": [
+          0.6666667,
+          0.431372553,
+          0.0235294122
+        ]
+      },
+      {
+        "id": "Copper",
+        "amount": "1",
+        "color": [
+          0.8980392,
+          0.5647059,
+          0.003921569
+        ]
+      }
+    ],
+    "result": {
+      "id": "Chromatic Metal",
+      "amount": "5",
+      "color": [
+        0.149019614,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "Chromatic Stellar Fusion",
+    "time": 1200,
+    "ingredients": [
+      {
+        "id": "Silver",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Gold",
+        "amount": "1",
+        "color": [
+          0.6666667,
+          0.431372553,
+          0.0235294122
+        ]
+      },
+      {
+        "id": "Cadmium",
+        "amount": "1",
+        "color": [
+          0.482352942,
+          0,
+          0
+        ]
+      }
+    ],
+    "result": {
+      "id": "Chromatic Metal",
+      "amount": "10",
+      "color": [
+        0.149019614,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "Chromatic Stellar Fusion",
+    "time": 1200,
+    "ingredients": [
+      {
+        "id": "Silver",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Gold",
+        "amount": "1",
+        "color": [
+          0.6666667,
+          0.431372553,
+          0.0235294122
+        ]
+      },
+      {
+        "id": "Emeril",
+        "amount": "1",
+        "color": [
+          0.211764708,
+          0.380392164,
+          0.109803922
+        ]
+      }
+    ],
+    "result": {
+      "id": "Chromatic Metal",
+      "amount": "20",
+      "color": [
+        0.149019614,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "Chromatic Stellar Fusion",
+    "time": 1200,
+    "ingredients": [
+      {
+        "id": "Silver",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Gold",
+        "amount": "1",
+        "color": [
+          0.6666667,
+          0.431372553,
+          0.0235294122
+        ]
+      },
+      {
+        "id": "Indium",
+        "amount": "1",
+        "color": [
+          0.003921569,
+          0.219607845,
+          0.490196079
+        ]
+      }
+    ],
+    "result": {
+      "id": "Chromatic Metal",
+      "amount": "30",
+      "color": [
+        0.149019614,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "Cobalt Cracking",
+    "time": 200,
+    "ingredients": [
+      {
+        "id": "TetraCobalt",
+        "amount": "1",
+        "color": [
+          0.9529412,
+          0.6627451,
+          0.137254909
+        ]
+      }
+    ],
+    "result": {
+      "id": "Ionized Cobalt",
+      "amount": "150",
+      "color": [
+        0,
+        0.360784322,
+        0.5137255
+      ]
+    }
+  },
+  {
+    "name": "Cobalt Supercharging",
+    "time": 120,
+    "ingredients": [
+      {
+        "id": "Cobalt",
+        "amount": "50",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Ionized Cobalt",
+        "amount": "50",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      }
+    ],
+    "result": {
+      "id": "TetraCobalt",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Cobalt Supercharging",
+    "time": 200,
+    "ingredients": [
+      {
+        "id": "Cobalt",
+        "amount": "40",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Ionized Cobalt",
+        "amount": "40",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Tritium",
+        "amount": "50",
+        "color": [
+          0.870588243,
+          0.8627451,
+          0.819607854
+        ]
+      }
+    ],
+    "result": {
+      "id": "TetraCobalt",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Concentrate Salt",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Salt",
+        "amount": "2",
+        "color": [
+          0.117647059,
+          0.5411765,
+          0.258823544
+        ]
+      }
+    ],
+    "result": {
+      "id": "Chlorine",
+      "amount": "1",
+      "color": [
+        0.117647059,
+        0.5411765,
+        0.258823544
+      ]
+    }
+  },
+  {
+    "name": "Condense Carbon",
+    "time": 45,
+    "ingredients": [
+      {
+        "id": "Carbon",
+        "amount": "2",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Condensed Carbon",
+      "amount": "1",
+      "color": [
+        0.733333349,
+        0.219607845,
+        0.1882353
+      ]
+    }
+  },
+  {
+    "name": "Condense Di-hydrogen",
+    "time": 120,
+    "ingredients": [
+      {
+        "id": "Di-hydrogen",
+        "amount": "30",
+        "color": [
+          0.20784314,
+          0.3529412,
+          0.490196079
+        ]
+      }
+    ],
+    "result": {
+      "id": "Di-hydrogen Jelly",
+      "amount": "1",
+      "color": [
+        0.7529412,
+        0.09019608,
+        0.274509817
+      ]
+    }
+  },
+  {
+    "name": "Deep Metal Compression",
+    "time": 120,
+    "ingredients": [
+      {
+        "id": "Ferrite Dust",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Pure Ferrite",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Silver",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Magnetized Ferrite",
+      "amount": "5",
+      "color": [
+        0.5411765,
+        0.498039216,
+        0.447058827
+      ]
+    }
+  },
+  {
+    "name": "Deep Metal Compression",
+    "time": 120,
+    "ingredients": [
+      {
+        "id": "Ferrite Dust",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Pure Ferrite",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Gold",
+        "amount": "1",
+        "color": [
+          0.6666667,
+          0.431372553,
+          0.0235294122
+        ]
+      }
+    ],
+    "result": {
+      "id": "Magnetized Ferrite",
+      "amount": "8",
+      "color": [
+        0.5411765,
+        0.498039216,
+        0.447058827
+      ]
+    }
+  },
+  {
+    "name": "Deep Metal Compression",
+    "time": 120,
+    "ingredients": [
+      {
+        "id": "Ferrite Dust",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Pure Ferrite",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Platinum",
+        "amount": "1",
+        "color": [
+          0.3137255,
+          0.458823532,
+          0.458823532
+        ]
+      }
+    ],
+    "result": {
+      "id": "Magnetized Ferrite",
+      "amount": "12",
+      "color": [
+        0.5411765,
+        0.498039216,
+        0.447058827
+      ]
+    }
+  },
+  {
+    "name": "Deionize Mineral",
+    "time": 30,
+    "ingredients": [
+      {
+        "id": "Ionized Cobalt",
+        "amount": "1",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      }
+    ],
+    "result": {
+      "id": "Cobalt",
+      "amount": "2",
+      "color": [
+        0,
+        0.360784322,
+        0.5137255
+      ]
+    }
+  },
+  {
+    "name": "Demagnetize Metal",
+    "time": 40,
+    "ingredients": [
+      {
+        "id": "Magnetized Ferrite",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Pure Ferrite",
+      "amount": "2",
+      "color": [
+        0.5411765,
+        0.498039216,
+        0.447058827
+      ]
+    }
+  },
+  {
+    "name": "Di-hydrogen Capture",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Di-hydrogen",
+        "amount": "10",
+        "color": [
+          0.20784314,
+          0.3529412,
+          0.490196079
+        ]
+      },
+      {
+        "id": "Ferrite Dust",
+        "amount": "20",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Sodium Nitrate",
+        "amount": "5",
+        "color": [
+          0.9490196,
+          0.427450985,
+          0.08235294
+        ]
+      }
+    ],
+    "result": {
+      "id": "Starship Launch Fuel",
+      "amount": "1",
+      "color": [
+        0.7529412,
+        0.09019608,
+        0.274509817
+      ]
+    }
+  },
+  {
+    "name": "Di-hydrogen Capture",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Di-hydrogen",
+        "amount": "10",
+        "color": [
+          0.20784314,
+          0.3529412,
+          0.490196079
+        ]
+      },
+      {
+        "id": "Pure Ferrite",
+        "amount": "20",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Sodium",
+        "amount": "10",
+        "color": [
+          0.9490196,
+          0.427450985,
+          0.08235294
+        ]
+      }
+    ],
+    "result": {
+      "id": "Starship Launch Fuel",
+      "amount": "1",
+      "color": [
+        0.7529412,
+        0.09019608,
+        0.274509817
+      ]
+    }
+  },
+  {
+    "name": "Di-hydrogen Capture",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Di-hydrogen",
+        "amount": "10",
+        "color": [
+          0.20784314,
+          0.3529412,
+          0.490196079
+        ]
+      },
+      {
+        "id": "Magnetized Ferrite",
+        "amount": "10",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Sodium Nitrate",
+        "amount": "5",
+        "color": [
+          0.9490196,
+          0.427450985,
+          0.08235294
+        ]
+      }
+    ],
+    "result": {
+      "id": "Starship Launch Fuel",
+      "amount": "1",
+      "color": [
+        0.7529412,
+        0.09019608,
+        0.274509817
+      ]
+    }
+  },
+  {
+    "name": "Di-hydrogen Cycling",
+    "time": 100,
+    "ingredients": [
+      {
+        "id": "Di-hydrogen Jelly",
+        "amount": "1",
+        "color": [
+          0.7529412,
+          0.09019608,
+          0.274509817
+        ]
+      }
+    ],
+    "result": {
+      "id": "Di-hydrogen",
+      "amount": "50",
+      "color": [
+        0.20784314,
+        0.3529412,
+        0.490196079
+      ]
+    }
+  },
+  {
+    "name": "Di-hydrogen Cycling",
+    "time": 60,
+    "ingredients": [
+      {
+        "id": "Di-hydrogen",
+        "amount": "1",
+        "color": [
+          0.20784314,
+          0.3529412,
+          0.490196079
+        ]
+      },
+      {
+        "id": "Tritium",
+        "amount": "1",
+        "color": [
+          0.870588243,
+          0.8627451,
+          0.819607854
+        ]
+      }
+    ],
+    "result": {
+      "id": "Deuterium",
+      "amount": "1",
+      "color": [
+        0.20784314,
+        0.3529412,
+        0.490196079
+      ]
+    }
+  },
+  {
+    "name": "Dissolve Natural Salts",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Kelp Sac",
+        "amount": "1",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Salt",
+        "amount": "1",
+        "color": [
+          0.117647059,
+          0.5411765,
+          0.258823544
+        ]
+      }
+    ],
+    "result": {
+      "id": "Chlorine",
+      "amount": "2",
+      "color": [
+        0.117647059,
+        0.5411765,
+        0.258823544
+      ]
+    }
+  },
+  {
+    "name": "Dissolve Natural Salts",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Kelp Sac",
+        "amount": "1",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Chlorine",
+        "amount": "1",
+        "color": [
+          0.117647059,
+          0.5411765,
+          0.258823544
+        ]
+      }
+    ],
+    "result": {
+      "id": "Chlorine",
+      "amount": "2",
+      "color": [
+        0.117647059,
+        0.5411765,
+        0.258823544
+      ]
+    }
+  },
+  {
+    "name": "Doom Cycling",
+    "time": 60,
+    "ingredients": [
+      {
+        "id": "Hadal Core",
+        "amount": "1",
+        "color": [
+          0.8,
+          0.8,
+          0.8
+        ]
+      }
+    ],
+    "result": {
+      "id": "Nanite Cluster",
+      "amount": "50",
+      "color": [
+        0.117647059,
+        0.20784314,
+        0.305882365
+      ]
+    }
+  },
+  {
+    "name": "Efficient Cobalt Ionization",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Cobalt",
+        "amount": "2",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Oxygen",
+        "amount": "2",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Ionized Cobalt",
+      "amount": "5",
+      "color": [
+        0,
+        0.360784322,
+        0.5137255
+      ]
+    }
+  },
+  {
+    "name": "Efficient Cobalt Ionization",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Ionized Cobalt",
+        "amount": "1",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Oxygen",
+        "amount": "2",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Ionized Cobalt",
+      "amount": "6",
+      "color": [
+        0,
+        0.360784322,
+        0.5137255
+      ]
+    }
+  },
+  {
+    "name": "Efficient Salt Evaporation",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Salt",
+        "amount": "2",
+        "color": [
+          0.117647059,
+          0.5411765,
+          0.258823544
+        ]
+      },
+      {
+        "id": "Oxygen",
+        "amount": "2",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Chlorine",
+      "amount": "5",
+      "color": [
+        0.117647059,
+        0.5411765,
+        0.258823544
+      ]
+    }
+  },
+  {
+    "name": "Encourage Growth",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Paraffinium",
+        "amount": "2",
+        "color": [
+          0.305882365,
+          0.2509804,
+          0.309803933
+        ]
+      },
+      {
+        "id": "Oxygen",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Star Bulb",
+      "amount": "1",
+      "color": [
+        0.1254902,
+        0.5529412,
+        0.670588255
+      ]
+    }
+  },
+  {
+    "name": "Encourage Growth",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Pyrite",
+        "amount": "2",
+        "color": [
+          0.8980392,
+          0.4392157,
+          0.007843138
+        ]
+      },
+      {
+        "id": "Oxygen",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Cactus Flesh",
+      "amount": "1",
+      "color": [
+        0.137254909,
+        0.5882353,
+        0.149019614
+      ]
+    }
+  },
+  {
+    "name": "Encourage Growth",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Ammonia",
+        "amount": "2",
+        "color": [
+          0,
+          0.6509804,
+          0.3019608
+        ]
+      },
+      {
+        "id": "Oxygen",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Fungal Mold",
+      "amount": "1",
+      "color": [
+        0,
+        0.6509804,
+        0.3019608
+      ]
+    }
+  },
+  {
+    "name": "Encourage Growth",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Uranium",
+        "amount": "2",
+        "color": [
+          1,
+          0.6784314,
+          0
+        ]
+      },
+      {
+        "id": "Oxygen",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Gamma Root",
+      "amount": "1",
+      "color": [
+        0.772549033,
+        0.5294118,
+        0.113725491
+      ]
+    }
+  },
+  {
+    "name": "Encourage Growth",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Dioxite",
+        "amount": "2",
+        "color": [
+          0.117647059,
+          0.309803933,
+          0.8156863
+        ]
+      },
+      {
+        "id": "Oxygen",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Frost Crystal",
+      "amount": "1",
+      "color": [
+        0.117647059,
+        0.309803933,
+        0.8156863
+      ]
+    }
+  },
+  {
+    "name": "Encourage Growth",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Phosphorus",
+        "amount": "2",
+        "color": [
+          0.858823538,
+          0.141176477,
+          0
+        ]
+      },
+      {
+        "id": "Oxygen",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Solanium",
+      "amount": "1",
+      "color": [
+        0.7254902,
+        0.2627451,
+        0.09411765
+      ]
+    }
+  },
+  {
+    "name": "Encourage Growth",
+    "time": 60,
+    "ingredients": [
+      {
+        "id": "Ammonia",
+        "amount": "1",
+        "color": [
+          0,
+          0.6509804,
+          0.3019608
+        ]
+      },
+      {
+        "id": "Nitrogen",
+        "amount": "1",
+        "color": [
+          0.870588243,
+          0.572549045,
+          0.121568628
+        ]
+      }
+    ],
+    "result": {
+      "id": "Fungal Mold",
+      "amount": "1",
+      "color": [
+        0,
+        0.6509804,
+        0.3019608
+      ]
+    }
+  },
+  {
+    "name": "Encourage Growth",
+    "time": 60,
+    "ingredients": [
+      {
+        "id": "Dioxite",
+        "amount": "1",
+        "color": [
+          0.117647059,
+          0.309803933,
+          0.8156863
+        ]
+      },
+      {
+        "id": "Radon",
+        "amount": "1",
+        "color": [
+          0.298039228,
+          0.215686277,
+          0.5019608
+        ]
+      }
+    ],
+    "result": {
+      "id": "Frost Crystal",
+      "amount": "1",
+      "color": [
+        0.117647059,
+        0.309803933,
+        0.8156863
+      ]
+    }
+  },
+  {
+    "name": "Encourage Growth",
+    "time": 60,
+    "ingredients": [
+      {
+        "id": "Uranium",
+        "amount": "1",
+        "color": [
+          1,
+          0.6784314,
+          0
+        ]
+      },
+      {
+        "id": "Radon",
+        "amount": "1",
+        "color": [
+          0.298039228,
+          0.215686277,
+          0.5019608
+        ]
+      }
+    ],
+    "result": {
+      "id": "Gamma Root",
+      "amount": "1",
+      "color": [
+        0.772549033,
+        0.5294118,
+        0.113725491
+      ]
+    }
+  },
+  {
+    "name": "Encourage Growth",
+    "time": 60,
+    "ingredients": [
+      {
+        "id": "Pyrite",
+        "amount": "1",
+        "color": [
+          0.8980392,
+          0.4392157,
+          0.007843138
+        ]
+      },
+      {
+        "id": "Sulphurine",
+        "amount": "1",
+        "color": [
+          0.149019614,
+          0.368627459,
+          0.227450982
+        ]
+      }
+    ],
+    "result": {
+      "id": "Cactus Flesh",
+      "amount": "1",
+      "color": [
+        0.137254909,
+        0.5882353,
+        0.149019614
+      ]
+    }
+  },
+  {
+    "name": "Encourage Growth",
+    "time": 60,
+    "ingredients": [
+      {
+        "id": "Phosphorus",
+        "amount": "1",
+        "color": [
+          0.858823538,
+          0.141176477,
+          0
+        ]
+      },
+      {
+        "id": "Sulphurine",
+        "amount": "1",
+        "color": [
+          0.149019614,
+          0.368627459,
+          0.227450982
+        ]
+      }
+    ],
+    "result": {
+      "id": "Solanium",
+      "amount": "1",
+      "color": [
+        0.7254902,
+        0.2627451,
+        0.09411765
+      ]
+    }
+  },
+  {
+    "name": "Encourage Growth",
+    "time": 60,
+    "ingredients": [
+      {
+        "id": "Paraffinium",
+        "amount": "1",
+        "color": [
+          0.305882365,
+          0.2509804,
+          0.309803933
+        ]
+      },
+      {
+        "id": "Nitrogen",
+        "amount": "1",
+        "color": [
+          0.870588243,
+          0.572549045,
+          0.121568628
+        ]
+      }
+    ],
+    "result": {
+      "id": "Star Bulb",
+      "amount": "1",
+      "color": [
+        0.1254902,
+        0.5529412,
+        0.670588255
+      ]
+    }
+  },
+  {
+    "name": "Encourage Growth",
+    "time": 60,
+    "ingredients": [
+      {
+        "id": "Cobalt",
+        "amount": "1",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Nitrogen",
+        "amount": "1",
+        "color": [
+          0.870588243,
+          0.572549045,
+          0.121568628
+        ]
+      }
+    ],
+    "result": {
+      "id": "Marrow Bulb",
+      "amount": "1",
+      "color": [
+        0.356862754,
+        0.435294122,
+        0.20784314
+      ]
+    }
+  },
+  {
+    "name": "Encourage Growth",
+    "time": 60,
+    "ingredients": [
+      {
+        "id": "Salt",
+        "amount": "1",
+        "color": [
+          0.117647059,
+          0.5411765,
+          0.258823544
+        ]
+      },
+      {
+        "id": "Nitrogen",
+        "amount": "1",
+        "color": [
+          0.870588243,
+          0.572549045,
+          0.121568628
+        ]
+      }
+    ],
+    "result": {
+      "id": "Kelp Sac",
+      "amount": "1",
+      "color": [
+        0,
+        0.360784322,
+        0.5137255
+      ]
+    }
+  },
+  {
+    "name": "Encourage Growth",
+    "time": 60,
+    "ingredients": [
+      {
+        "id": "Sulphurine",
+        "amount": "1",
+        "color": [
+          0.149019614,
+          0.368627459,
+          0.227450982
+        ]
+      },
+      {
+        "id": "Nitrogen",
+        "amount": "1",
+        "color": [
+          0.870588243,
+          0.572549045,
+          0.121568628
+        ]
+      }
+    ],
+    "result": {
+      "id": "Faecium",
+      "amount": "1",
+      "color": [
+        0.4745098,
+        0.3137255,
+        0.180392161
+      ]
+    }
+  },
+  {
+    "name": "Environmental Element Transfer",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Paraffinium",
+        "amount": "2",
+        "color": [
+          0.305882365,
+          0.2509804,
+          0.309803933
+        ]
+      },
+      {
+        "id": "Ferrite Dust",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Ammonia",
+      "amount": "1",
+      "color": [
+        0,
+        0.6509804,
+        0.3019608
+      ]
+    }
+  },
+  {
+    "name": "Environmental Element Transfer",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Pyrite",
+        "amount": "2",
+        "color": [
+          0.8980392,
+          0.4392157,
+          0.007843138
+        ]
+      },
+      {
+        "id": "Ferrite Dust",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Paraffinium",
+      "amount": "1",
+      "color": [
+        0.305882365,
+        0.2509804,
+        0.309803933
+      ]
+    }
+  },
+  {
+    "name": "Environmental Element Transfer",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Ammonia",
+        "amount": "2",
+        "color": [
+          0,
+          0.6509804,
+          0.3019608
+        ]
+      },
+      {
+        "id": "Ferrite Dust",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Dioxite",
+      "amount": "1",
+      "color": [
+        0.117647059,
+        0.309803933,
+        0.8156863
+      ]
+    }
+  },
+  {
+    "name": "Environmental Element Transfer",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Uranium",
+        "amount": "2",
+        "color": [
+          1,
+          0.6784314,
+          0
+        ]
+      },
+      {
+        "id": "Ferrite Dust",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Pyrite",
+      "amount": "1",
+      "color": [
+        0.8980392,
+        0.4392157,
+        0.007843138
+      ]
+    }
+  },
+  {
+    "name": "Environmental Element Transfer",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Dioxite",
+        "amount": "2",
+        "color": [
+          0.117647059,
+          0.309803933,
+          0.8156863
+        ]
+      },
+      {
+        "id": "Ferrite Dust",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Phosphorus",
+      "amount": "1",
+      "color": [
+        0.858823538,
+        0.141176477,
+        0
+      ]
+    }
+  },
+  {
+    "name": "Environmental Element Transfer",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Phosphorus",
+        "amount": "2",
+        "color": [
+          0.858823538,
+          0.141176477,
+          0
+        ]
+      },
+      {
+        "id": "Ferrite Dust",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Uranium",
+      "amount": "1",
+      "color": [
+        1,
+        0.6784314,
+        0
+      ]
+    }
+  },
+  {
+    "name": "Environmental Element Transfer",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Paraffinium",
+        "amount": "2",
+        "color": [
+          0.305882365,
+          0.2509804,
+          0.309803933
+        ]
+      },
+      {
+        "id": "Pure Ferrite",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Ammonia",
+      "amount": "1",
+      "color": [
+        0,
+        0.6509804,
+        0.3019608
+      ]
+    }
+  },
+  {
+    "name": "Environmental Element Transfer",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Pyrite",
+        "amount": "2",
+        "color": [
+          0.8980392,
+          0.4392157,
+          0.007843138
+        ]
+      },
+      {
+        "id": "Pure Ferrite",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Paraffinium",
+      "amount": "1",
+      "color": [
+        0.305882365,
+        0.2509804,
+        0.309803933
+      ]
+    }
+  },
+  {
+    "name": "Environmental Element Transfer",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Ammonia",
+        "amount": "2",
+        "color": [
+          0,
+          0.6509804,
+          0.3019608
+        ]
+      },
+      {
+        "id": "Pure Ferrite",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Dioxite",
+      "amount": "1",
+      "color": [
+        0.117647059,
+        0.309803933,
+        0.8156863
+      ]
+    }
+  },
+  {
+    "name": "Environmental Element Transfer",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Uranium",
+        "amount": "2",
+        "color": [
+          1,
+          0.6784314,
+          0
+        ]
+      },
+      {
+        "id": "Pure Ferrite",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Pyrite",
+      "amount": "1",
+      "color": [
+        0.8980392,
+        0.4392157,
+        0.007843138
+      ]
+    }
+  },
+  {
+    "name": "Environmental Element Transfer",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Dioxite",
+        "amount": "2",
+        "color": [
+          0.117647059,
+          0.309803933,
+          0.8156863
+        ]
+      },
+      {
+        "id": "Pure Ferrite",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Phosphorus",
+      "amount": "1",
+      "color": [
+        0.858823538,
+        0.141176477,
+        0
+      ]
+    }
+  },
+  {
+    "name": "Environmental Element Transfer",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Phosphorus",
+        "amount": "2",
+        "color": [
+          0.858823538,
+          0.141176477,
+          0
+        ]
+      },
+      {
+        "id": "Pure Ferrite",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Uranium",
+      "amount": "1",
+      "color": [
+        1,
+        0.6784314,
+        0
+      ]
+    }
+  },
+  {
+    "name": "Extract Chromatic Material",
+    "time": 70,
+    "ingredients": [
+      {
+        "id": "Cadmium",
+        "amount": "1",
+        "color": [
+          0.482352942,
+          0,
+          0
+        ]
+      }
+    ],
+    "result": {
+      "id": "Chromatic Metal",
+      "amount": "1",
+      "color": [
+        0.149019614,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "Extract Chromatic Material",
+    "time": 25,
+    "ingredients": [
+      {
+        "id": "Indium",
+        "amount": "2",
+        "color": [
+          0.003921569,
+          0.219607845,
+          0.490196079
+        ]
+      }
+    ],
+    "result": {
+      "id": "Chromatic Metal",
+      "amount": "4",
+      "color": [
+        0.149019614,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "Extract Chromatic Material",
+    "time": 40,
+    "ingredients": [
+      {
+        "id": "Emeril",
+        "amount": "2",
+        "color": [
+          0.211764708,
+          0.380392164,
+          0.109803922
+        ]
+      }
+    ],
+    "result": {
+      "id": "Chromatic Metal",
+      "amount": "3",
+      "color": [
+        0.149019614,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "Extract Chromatic Material",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Copper",
+        "amount": "2",
+        "color": [
+          0.8980392,
+          0.5647059,
+          0.003921569
+        ]
+      }
+    ],
+    "result": {
+      "id": "Chromatic Metal",
+      "amount": "1",
+      "color": [
+        0.149019614,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "Extract Chromatic Material",
+    "time": 50,
+    "ingredients": [
+      {
+        "id": "Activated Cadmium",
+        "amount": "1",
+        "color": [
+          0.482352942,
+          0,
+          0
+        ]
+      }
+    ],
+    "result": {
+      "id": "Chromatic Metal",
+      "amount": "2",
+      "color": [
+        0.149019614,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "Extract Chromatic Material",
+    "time": 30,
+    "ingredients": [
+      {
+        "id": "Activated Indium",
+        "amount": "1",
+        "color": [
+          0.003921569,
+          0.219607845,
+          0.490196079
+        ]
+      }
+    ],
+    "result": {
+      "id": "Chromatic Metal",
+      "amount": "4",
+      "color": [
+        0.149019614,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "Extract Chromatic Material",
+    "time": 40,
+    "ingredients": [
+      {
+        "id": "Activated Emeril",
+        "amount": "1",
+        "color": [
+          0.211764708,
+          0.380392164,
+          0.109803922
+        ]
+      }
+    ],
+    "result": {
+      "id": "Chromatic Metal",
+      "amount": "3",
+      "color": [
+        0.149019614,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "Extract Chromatic Material",
+    "time": 60,
+    "ingredients": [
+      {
+        "id": "Activated Copper",
+        "amount": "1",
+        "color": [
+          0.8980392,
+          0.5647059,
+          0.003921569
+        ]
+      }
+    ],
+    "result": {
+      "id": "Chromatic Metal",
+      "amount": "1",
+      "color": [
+        0.149019614,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "name": "Extract Metallic Elements",
+    "time": 30,
+    "ingredients": [
+      {
+        "id": "Ferrite Dust",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Pure Ferrite",
+      "amount": "1",
+      "color": [
+        0.5411765,
+        0.498039216,
+        0.447058827
+      ]
+    }
+  },
+  {
+    "name": "Extract Micro-Bubbles",
+    "time": 60,
+    "ingredients": [
+      {
+        "id": "Kelp Sac",
+        "amount": "1",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      }
+    ],
+    "result": {
+      "id": "Oxygen",
+      "amount": "1",
+      "color": [
+        0.733333349,
+        0.219607845,
+        0.1882353
+      ]
+    }
+  },
+  {
+    "name": "Extract Organic Sodium",
+    "time": 60,
+    "ingredients": [
+      {
+        "id": "Marrow Bulb",
+        "amount": "1",
+        "color": [
+          0.356862754,
+          0.435294122,
+          0.20784314
+        ]
+      }
+    ],
+    "result": {
+      "id": "Sodium",
+      "amount": "1",
+      "color": [
+        0.9490196,
+        0.427450985,
+        0.08235294
+      ]
+    }
+  },
+  {
+    "name": "Extract Organic Sodium",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Marrow Bulb",
+        "amount": "1",
+        "color": [
+          0.356862754,
+          0.435294122,
+          0.20784314
+        ]
+      },
+      {
+        "id": "Carbon",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Sodium",
+      "amount": "2",
+      "color": [
+        0.9490196,
+        0.427450985,
+        0.08235294
+      ]
+    }
+  },
+  {
+    "name": "Extract Organic Sodium",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Marrow Bulb",
+        "amount": "1",
+        "color": [
+          0.356862754,
+          0.435294122,
+          0.20784314
+        ]
+      },
+      {
+        "id": "Condensed Carbon",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Sodium",
+      "amount": "2",
+      "color": [
+        0.9490196,
+        0.427450985,
+        0.08235294
+      ]
+    }
+  },
+  {
+    "name": "Extreme Alloy Separation",
+    "time": 300,
+    "ingredients": [
+      {
+        "id": "Aronium",
+        "amount": "1",
+        "color": [
+          0.9529412,
+          0.6627451,
+          0.137254909
+        ]
+      }
+    ],
+    "result": {
+      "id": "Silver",
+      "amount": "250",
+      "color": [
+        0.5411765,
+        0.498039216,
+        0.447058827
+      ]
+    }
+  },
+  {
+    "name": "Extreme Alloy Separation",
+    "time": 300,
+    "ingredients": [
+      {
+        "id": "Dirty Bronze",
+        "amount": "1",
+        "color": [
+          0.9529412,
+          0.6627451,
+          0.137254909
+        ]
+      }
+    ],
+    "result": {
+      "id": "Silver",
+      "amount": "250",
+      "color": [
+        0.5411765,
+        0.498039216,
+        0.447058827
+      ]
+    }
+  },
+  {
+    "name": "Extreme Alloy Separation",
+    "time": 250,
+    "ingredients": [
+      {
+        "id": "Herox",
+        "amount": "1",
+        "color": [
+          0.9529412,
+          0.6627451,
+          0.137254909
+        ]
+      }
+    ],
+    "result": {
+      "id": "Silver",
+      "amount": "250",
+      "color": [
+        0.5411765,
+        0.498039216,
+        0.447058827
+      ]
+    }
+  },
+  {
+    "name": "Extreme Alloy Separation",
+    "time": 300,
+    "ingredients": [
+      {
+        "id": "Lemmium",
+        "amount": "1",
+        "color": [
+          0.9529412,
+          0.6627451,
+          0.137254909
+        ]
+      }
+    ],
+    "result": {
+      "id": "Gold",
+      "amount": "125",
+      "color": [
+        0.6666667,
+        0.431372553,
+        0.0235294122
+      ]
+    }
+  },
+  {
+    "name": "Extreme Alloy Separation",
+    "time": 300,
+    "ingredients": [
+      {
+        "id": "Magno-Gold",
+        "amount": "1",
+        "color": [
+          0.9529412,
+          0.6627451,
+          0.137254909
+        ]
+      }
+    ],
+    "result": {
+      "id": "Gold",
+      "amount": "125",
+      "color": [
+        0.6666667,
+        0.431372553,
+        0.0235294122
+      ]
+    }
+  },
+  {
+    "name": "Extreme Alloy Separation",
+    "time": 300,
+    "ingredients": [
+      {
+        "id": "Grantine",
+        "amount": "1",
+        "color": [
+          0.9529412,
+          0.6627451,
+          0.137254909
+        ]
+      }
+    ],
+    "result": {
+      "id": "Gold",
+      "amount": "125",
+      "color": [
+        0.6666667,
+        0.431372553,
+        0.0235294122
+      ]
+    }
+  },
+  {
+    "name": "Extreme Alloy Separation",
+    "time": 300,
+    "ingredients": [
+      {
+        "id": "Geodesite",
+        "amount": "1",
+        "color": [
+          0.9529412,
+          0.6627451,
+          0.137254909
+        ]
+      }
+    ],
+    "result": {
+      "id": "Platinum",
+      "amount": "250",
+      "color": [
+        0.3137255,
+        0.458823532,
+        0.458823532
+      ]
+    }
+  },
+  {
+    "name": "Extreme Alloy Separation",
+    "time": 300,
+    "ingredients": [
+      {
+        "id": "Iridesite",
+        "amount": "1",
+        "color": [
+          0.9529412,
+          0.6627451,
+          0.137254909
+        ]
+      }
+    ],
+    "result": {
+      "id": "Platinum",
+      "amount": "250",
+      "color": [
+        0.3137255,
+        0.458823532,
+        0.458823532
+      ]
+    }
+  },
+  {
+    "name": "Feed Microbes",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Faecium",
+        "amount": "1",
+        "color": [
+          0.4745098,
+          0.3137255,
+          0.180392161
+        ]
+      },
+      {
+        "id": "Carbon",
+        "amount": "2",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Condensed Carbon",
+      "amount": "2",
+      "color": [
+        0.733333349,
+        0.219607845,
+        0.1882353
+      ]
+    }
+  },
+  {
+    "name": "Feed Microbes",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Faecium",
+        "amount": "1",
+        "color": [
+          0.4745098,
+          0.3137255,
+          0.180392161
+        ]
+      },
+      {
+        "id": "Sodium",
+        "amount": "1",
+        "color": [
+          0.9490196,
+          0.427450985,
+          0.08235294
+        ]
+      }
+    ],
+    "result": {
+      "id": "Sodium Nitrate",
+      "amount": "2",
+      "color": [
+        0.9490196,
+        0.427450985,
+        0.08235294
+      ]
+    }
+  },
+  {
+    "name": "Feed Microbes",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Faecium",
+        "amount": "1",
+        "color": [
+          0.4745098,
+          0.3137255,
+          0.180392161
+        ]
+      },
+      {
+        "id": "Condensed Carbon",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Condensed Carbon",
+      "amount": "3",
+      "color": [
+        0.733333349,
+        0.219607845,
+        0.1882353
+      ]
+    }
+  },
+  {
+    "name": "Feed Microbes",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Faecium",
+        "amount": "1",
+        "color": [
+          0.4745098,
+          0.3137255,
+          0.180392161
+        ]
+      },
+      {
+        "id": "Sodium Nitrate",
+        "amount": "1",
+        "color": [
+          0.9490196,
+          0.427450985,
+          0.08235294
+        ]
+      }
+    ],
+    "result": {
+      "id": "Sodium Nitrate",
+      "amount": "2",
+      "color": [
+        0.9490196,
+        0.427450985,
+        0.08235294
+      ]
+    }
+  },
+  {
+    "name": "Feed Microbes",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Faecium",
+        "amount": "1",
+        "color": [
+          0.4745098,
+          0.3137255,
+          0.180392161
+        ]
+      },
+      {
+        "id": "Mordite",
+        "amount": "1",
+        "color": [
+          0.31764707,
+          0.152941182,
+          0.254901975
+        ]
+      }
+    ],
+    "result": {
+      "id": "Condensed Carbon",
+      "amount": "2",
+      "color": [
+        0.733333349,
+        0.219607845,
+        0.1882353
+      ]
+    }
+  },
+  {
+    "name": "Ferrite Dust Extraction",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Paraffinium",
+        "amount": "1",
+        "color": [
+          0.305882365,
+          0.2509804,
+          0.309803933
+        ]
+      }
+    ],
+    "result": {
+      "id": "Ferrite Dust",
+      "amount": "1",
+      "color": [
+        0.5411765,
+        0.498039216,
+        0.447058827
+      ]
+    }
+  },
+  {
+    "name": "Ferrite Dust Extraction",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Pyrite",
+        "amount": "1",
+        "color": [
+          0.8980392,
+          0.4392157,
+          0.007843138
+        ]
+      }
+    ],
+    "result": {
+      "id": "Ferrite Dust",
+      "amount": "1",
+      "color": [
+        0.5411765,
+        0.498039216,
+        0.447058827
+      ]
+    }
+  },
+  {
+    "name": "Ferrite Dust Extraction",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Ammonia",
+        "amount": "1",
+        "color": [
+          0,
+          0.6509804,
+          0.3019608
+        ]
+      }
+    ],
+    "result": {
+      "id": "Ferrite Dust",
+      "amount": "1",
+      "color": [
+        0.5411765,
+        0.498039216,
+        0.447058827
+      ]
+    }
+  },
+  {
+    "name": "Ferrite Dust Extraction",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Uranium",
+        "amount": "1",
+        "color": [
+          1,
+          0.6784314,
+          0
+        ]
+      }
+    ],
+    "result": {
+      "id": "Ferrite Dust",
+      "amount": "1",
+      "color": [
+        0.5411765,
+        0.498039216,
+        0.447058827
+      ]
+    }
+  },
+  {
+    "name": "Ferrite Dust Extraction",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Dioxite",
+        "amount": "1",
+        "color": [
+          0.117647059,
+          0.309803933,
+          0.8156863
+        ]
+      }
+    ],
+    "result": {
+      "id": "Ferrite Dust",
+      "amount": "1",
+      "color": [
+        0.5411765,
+        0.498039216,
+        0.447058827
+      ]
+    }
+  },
+  {
+    "name": "Ferrite Dust Extraction",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Phosphorus",
+        "amount": "1",
+        "color": [
+          0.858823538,
+          0.141176477,
+          0
+        ]
+      }
+    ],
+    "result": {
+      "id": "Ferrite Dust",
+      "amount": "1",
+      "color": [
+        0.5411765,
+        0.498039216,
+        0.447058827
+      ]
+    }
+  },
+  {
+    "name": "Fertilizer Synthesis",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Sodium",
+        "amount": "2",
+        "color": [
+          0.9490196,
+          0.427450985,
+          0.08235294
+        ]
+      },
+      {
+        "id": "Mordite",
+        "amount": "1",
+        "color": [
+          0.31764707,
+          0.152941182,
+          0.254901975
+        ]
+      }
+    ],
+    "result": {
+      "id": "Marrow Bulb",
+      "amount": "3",
+      "color": [
+        0.356862754,
+        0.435294122,
+        0.20784314
+      ]
+    }
+  },
+  {
+    "name": "Fertilizer Synthesis",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Sodium Nitrate",
+        "amount": "1",
+        "color": [
+          0.9490196,
+          0.427450985,
+          0.08235294
+        ]
+      },
+      {
+        "id": "Mordite",
+        "amount": "1",
+        "color": [
+          0.31764707,
+          0.152941182,
+          0.254901975
+        ]
+      }
+    ],
+    "result": {
+      "id": "Marrow Bulb",
+      "amount": "4",
+      "color": [
+        0.356862754,
+        0.435294122,
+        0.20784314
+      ]
+    }
+  },
+  {
+    "name": "Floral Titration",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Fungal Mold",
+        "amount": "2",
+        "color": [
+          0,
+          0.6509804,
+          0.3019608
+        ]
+      },
+      {
+        "id": "Salt",
+        "amount": "1",
+        "color": [
+          0.117647059,
+          0.5411765,
+          0.258823544
+        ]
+      }
+    ],
+    "result": {
+      "id": "Ammonia",
+      "amount": "1",
+      "color": [
+        0,
+        0.6509804,
+        0.3019608
+      ]
+    }
+  },
+  {
+    "name": "Floral Titration",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Frost Crystal",
+        "amount": "2",
+        "color": [
+          0.117647059,
+          0.309803933,
+          0.8156863
+        ]
+      },
+      {
+        "id": "Salt",
+        "amount": "1",
+        "color": [
+          0.117647059,
+          0.5411765,
+          0.258823544
+        ]
+      }
+    ],
+    "result": {
+      "id": "Dioxite",
+      "amount": "1",
+      "color": [
+        0.117647059,
+        0.309803933,
+        0.8156863
+      ]
+    }
+  },
+  {
+    "name": "Floral Titration",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Gamma Root",
+        "amount": "2",
+        "color": [
+          0.772549033,
+          0.5294118,
+          0.113725491
+        ]
+      },
+      {
+        "id": "Salt",
+        "amount": "1",
+        "color": [
+          0.117647059,
+          0.5411765,
+          0.258823544
+        ]
+      }
+    ],
+    "result": {
+      "id": "Uranium",
+      "amount": "1",
+      "color": [
+        1,
+        0.6784314,
+        0
+      ]
+    }
+  },
+  {
+    "name": "Floral Titration",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Cactus Flesh",
+        "amount": "2",
+        "color": [
+          0.137254909,
+          0.5882353,
+          0.149019614
+        ]
+      },
+      {
+        "id": "Salt",
+        "amount": "1",
+        "color": [
+          0.117647059,
+          0.5411765,
+          0.258823544
+        ]
+      }
+    ],
+    "result": {
+      "id": "Pyrite",
+      "amount": "1",
+      "color": [
+        0.8980392,
+        0.4392157,
+        0.007843138
+      ]
+    }
+  },
+  {
+    "name": "Floral Titration",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Solanium",
+        "amount": "2",
+        "color": [
+          0.7254902,
+          0.2627451,
+          0.09411765
+        ]
+      },
+      {
+        "id": "Salt",
+        "amount": "1",
+        "color": [
+          0.117647059,
+          0.5411765,
+          0.258823544
+        ]
+      }
+    ],
+    "result": {
+      "id": "Phosphorus",
+      "amount": "1",
+      "color": [
+        0.858823538,
+        0.141176477,
+        0
+      ]
+    }
+  },
+  {
+    "name": "Floral Titration",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Star Bulb",
+        "amount": "2",
+        "color": [
+          0.1254902,
+          0.5529412,
+          0.670588255
+        ]
+      },
+      {
+        "id": "Salt",
+        "amount": "1",
+        "color": [
+          0.117647059,
+          0.5411765,
+          0.258823544
+        ]
+      }
+    ],
+    "result": {
+      "id": "Paraffinium",
+      "amount": "1",
+      "color": [
+        0.305882365,
+        0.2509804,
+        0.309803933
+      ]
+    }
+  },
+  {
+    "name": "Free Sodium",
+    "time": 60,
+    "ingredients": [
+      {
+        "id": "Sodium Nitrate",
+        "amount": "1",
+        "color": [
+          0.9490196,
+          0.427450985,
+          0.08235294
+        ]
+      }
+    ],
+    "result": {
+      "id": "Sodium",
+      "amount": "2",
+      "color": [
+        0.9490196,
+        0.427450985,
+        0.08235294
+      ]
+    }
+  },
+  {
+    "name": "Gas Canalization",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Sulphurine",
+        "amount": "1",
+        "color": [
+          0.149019614,
+          0.368627459,
+          0.227450982
+        ]
+      },
+      {
+        "id": "Chromatic Metal",
+        "amount": "1",
+        "color": [
+          0.149019614,
+          0,
+          0
+        ]
+      }
+    ],
+    "result": {
+      "id": "Radon",
+      "amount": "1",
+      "color": [
+        0.298039228,
+        0.215686277,
+        0.5019608
+      ]
+    }
+  },
+  {
+    "name": "Gas Canalization",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Radon",
+        "amount": "1",
+        "color": [
+          0.298039228,
+          0.215686277,
+          0.5019608
+        ]
+      },
+      {
+        "id": "Chromatic Metal",
+        "amount": "1",
+        "color": [
+          0.149019614,
+          0,
+          0
+        ]
+      }
+    ],
+    "result": {
+      "id": "Nitrogen",
+      "amount": "1",
+      "color": [
+        0.870588243,
+        0.572549045,
+        0.121568628
+      ]
+    }
+  },
+  {
+    "name": "Gas Canalization",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Nitrogen",
+        "amount": "1",
+        "color": [
+          0.870588243,
+          0.572549045,
+          0.121568628
+        ]
+      },
+      {
+        "id": "Chromatic Metal",
+        "amount": "1",
+        "color": [
+          0.149019614,
+          0,
+          0
+        ]
+      }
+    ],
+    "result": {
+      "id": "Sulphurine",
+      "amount": "1",
+      "color": [
+        0.149019614,
+        0.368627459,
+        0.227450982
+      ]
+    }
+  },
+  {
+    "name": "Gas Canalization",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Nitrogen",
+        "amount": "1",
+        "color": [
+          0.870588243,
+          0.572549045,
+          0.121568628
+        ]
+      },
+      {
+        "id": "Sodium",
+        "amount": "1",
+        "color": [
+          0.9490196,
+          0.427450985,
+          0.08235294
+        ]
+      }
+    ],
+    "result": {
+      "id": "Sodium Nitrate",
+      "amount": "1",
+      "color": [
+        0.9490196,
+        0.427450985,
+        0.08235294
+      ]
+    }
+  },
+  {
+    "name": "Gas Canalization",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Nitrogen",
+        "amount": "1",
+        "color": [
+          0.870588243,
+          0.572549045,
+          0.121568628
+        ]
+      },
+      {
+        "id": "Sodium Nitrate",
+        "amount": "1",
+        "color": [
+          0.9490196,
+          0.427450985,
+          0.08235294
+        ]
+      }
+    ],
+    "result": {
+      "id": "Sodium Nitrate",
+      "amount": "2",
+      "color": [
+        0.9490196,
+        0.427450985,
+        0.08235294
+      ]
+    }
+  },
+  {
+    "name": "Gas Canalization",
+    "time": 120,
+    "ingredients": [
+      {
+        "id": "Nitrogen",
+        "amount": "1",
+        "color": [
+          0.870588243,
+          0.572549045,
+          0.121568628
+        ]
+      },
+      {
+        "id": "Ferrite Dust",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Sodium Nitrate",
+      "amount": "1",
+      "color": [
+        0.9490196,
+        0.427450985,
+        0.08235294
+      ]
+    }
+  },
+  {
+    "name": "Gas Canalization",
+    "time": 120,
+    "ingredients": [
+      {
+        "id": "Nitrogen",
+        "amount": "1",
+        "color": [
+          0.870588243,
+          0.572549045,
+          0.121568628
+        ]
+      },
+      {
+        "id": "Pure Ferrite",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Sodium Nitrate",
+      "amount": "2",
+      "color": [
+        0.9490196,
+        0.427450985,
+        0.08235294
+      ]
+    }
+  },
+  {
+    "name": "Gas Canalization",
+    "time": 120,
+    "ingredients": [
+      {
+        "id": "Nitrogen",
+        "amount": "1",
+        "color": [
+          0.870588243,
+          0.572549045,
+          0.121568628
+        ]
+      },
+      {
+        "id": "Magnetized Ferrite",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Sodium Nitrate",
+      "amount": "3",
+      "color": [
+        0.9490196,
+        0.427450985,
+        0.08235294
+      ]
+    }
+  },
+  {
+    "name": "Gas Transfer",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Sulphurine",
+        "amount": "3",
+        "color": [
+          0.149019614,
+          0.368627459,
+          0.227450982
+        ]
+      }
+    ],
+    "result": {
+      "id": "Radon",
+      "amount": "1",
+      "color": [
+        0.298039228,
+        0.215686277,
+        0.5019608
+      ]
+    }
+  },
+  {
+    "name": "Gas Transfer",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Radon",
+        "amount": "3",
+        "color": [
+          0.298039228,
+          0.215686277,
+          0.5019608
+        ]
+      }
+    ],
+    "result": {
+      "id": "Nitrogen",
+      "amount": "1",
+      "color": [
+        0.870588243,
+        0.572549045,
+        0.121568628
+      ]
+    }
+  },
+  {
+    "name": "Gas Transfer",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Nitrogen",
+        "amount": "3",
+        "color": [
+          0.870588243,
+          0.572549045,
+          0.121568628
+        ]
+      }
+    ],
+    "result": {
+      "id": "Sulphurine",
+      "amount": "1",
+      "color": [
+        0.149019614,
+        0.368627459,
+        0.227450982
+      ]
+    }
+  },
+  {
+    "name": "Gas Transfer",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Sulphurine",
+        "amount": "1",
+        "color": [
+          0.149019614,
+          0.368627459,
+          0.227450982
+        ]
+      },
+      {
+        "id": "Oxygen",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Radon",
+      "amount": "1",
+      "color": [
+        0.298039228,
+        0.215686277,
+        0.5019608
+      ]
+    }
+  },
+  {
+    "name": "Gas Transfer",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Radon",
+        "amount": "1",
+        "color": [
+          0.298039228,
+          0.215686277,
+          0.5019608
+        ]
+      },
+      {
+        "id": "Oxygen",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Nitrogen",
+      "amount": "1",
+      "color": [
+        0.870588243,
+        0.572549045,
+        0.121568628
+      ]
+    }
+  },
+  {
+    "name": "Gas Transfer",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Nitrogen",
+        "amount": "1",
+        "color": [
+          0.870588243,
+          0.572549045,
+          0.121568628
+        ]
+      },
+      {
+        "id": "Oxygen",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Sulphurine",
+      "amount": "1",
+      "color": [
+        0.149019614,
+        0.368627459,
+        0.227450982
+      ]
+    }
+  },
+  {
+    "name": "Harness Energy",
+    "time": 10,
+    "ingredients": [
+      {
+        "id": "Uranium",
+        "amount": "1",
+        "color": [
+          1,
+          0.6784314,
+          0
+        ]
+      },
+      {
+        "id": "Di-hydrogen",
+        "amount": "1",
+        "color": [
+          0.20784314,
+          0.3529412,
+          0.490196079
+        ]
+      }
+    ],
+    "result": {
+      "id": "Condensed Carbon",
+      "amount": "2",
+      "color": [
+        0.733333349,
+        0.219607845,
+        0.1882353
+      ]
+    }
+  },
+  {
+    "name": "Harness Organic Nitrogen",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Marrow Bulb",
+        "amount": "1",
+        "color": [
+          0.356862754,
+          0.435294122,
+          0.20784314
+        ]
+      },
+      {
+        "id": "Sodium",
+        "amount": "1",
+        "color": [
+          0.9490196,
+          0.427450985,
+          0.08235294
+        ]
+      }
+    ],
+    "result": {
+      "id": "Sodium Nitrate",
+      "amount": "2",
+      "color": [
+        0.9490196,
+        0.427450985,
+        0.08235294
+      ]
+    }
+  },
+  {
+    "name": "Harness Organic Nitrogen",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Kelp Sac",
+        "amount": "1",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Sodium",
+        "amount": "1",
+        "color": [
+          0.9490196,
+          0.427450985,
+          0.08235294
+        ]
+      }
+    ],
+    "result": {
+      "id": "Sodium Nitrate",
+      "amount": "2",
+      "color": [
+        0.9490196,
+        0.427450985,
+        0.08235294
+      ]
+    }
+  },
+  {
+    "name": "Harness Organic Nitrogen",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Marrow Bulb",
+        "amount": "1",
+        "color": [
+          0.356862754,
+          0.435294122,
+          0.20784314
+        ]
+      },
+      {
+        "id": "Sodium Nitrate",
+        "amount": "1",
+        "color": [
+          0.9490196,
+          0.427450985,
+          0.08235294
+        ]
+      }
+    ],
+    "result": {
+      "id": "Sodium Nitrate",
+      "amount": "2",
+      "color": [
+        0.9490196,
+        0.427450985,
+        0.08235294
+      ]
+    }
+  },
+  {
+    "name": "Harness Organic Nitrogen",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Kelp Sac",
+        "amount": "1",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Sodium Nitrate",
+        "amount": "1",
+        "color": [
+          0.9490196,
+          0.427450985,
+          0.08235294
+        ]
+      }
+    ],
+    "result": {
+      "id": "Sodium Nitrate",
+      "amount": "2",
+      "color": [
+        0.9490196,
+        0.427450985,
+        0.08235294
+      ]
+    }
+  },
+  {
+    "name": "High-Speed Sublimation",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Sulphurine",
+        "amount": "100",
+        "color": [
+          0.149019614,
+          0.368627459,
+          0.227450982
+        ]
+      },
+      {
+        "id": "Carbon",
+        "amount": "20",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      },
+      {
+        "id": "Salt",
+        "amount": "10",
+        "color": [
+          0.117647059,
+          0.5411765,
+          0.258823544
+        ]
+      }
+    ],
+    "result": {
+      "id": "Thermic Condensate",
+      "amount": "1",
+      "color": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    }
+  },
+  {
+    "name": "High-Speed Sublimation",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Radon",
+        "amount": "100",
+        "color": [
+          0.298039228,
+          0.215686277,
+          0.5019608
+        ]
+      },
+      {
+        "id": "Carbon",
+        "amount": "20",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      },
+      {
+        "id": "Salt",
+        "amount": "10",
+        "color": [
+          0.117647059,
+          0.5411765,
+          0.258823544
+        ]
+      }
+    ],
+    "result": {
+      "id": "Enriched Carbon",
+      "amount": "1",
+      "color": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    }
+  },
+  {
+    "name": "High-Speed Sublimation",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Nitrogen",
+        "amount": "100",
+        "color": [
+          0.870588243,
+          0.572549045,
+          0.121568628
+        ]
+      },
+      {
+        "id": "Carbon",
+        "amount": "20",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      },
+      {
+        "id": "Salt",
+        "amount": "10",
+        "color": [
+          0.117647059,
+          0.5411765,
+          0.258823544
+        ]
+      }
+    ],
+    "result": {
+      "id": "Nitrogen Salt",
+      "amount": "1",
+      "color": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    }
+  },
+  {
+    "name": "High-Speed Sublimation",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Sulphurine",
+        "amount": "100",
+        "color": [
+          0.149019614,
+          0.368627459,
+          0.227450982
+        ]
+      },
+      {
+        "id": "Condensed Carbon",
+        "amount": "10",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      },
+      {
+        "id": "Salt",
+        "amount": "10",
+        "color": [
+          0.117647059,
+          0.5411765,
+          0.258823544
+        ]
+      }
+    ],
+    "result": {
+      "id": "Thermic Condensate",
+      "amount": "1",
+      "color": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    }
+  },
+  {
+    "name": "High-Speed Sublimation",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Radon",
+        "amount": "100",
+        "color": [
+          0.298039228,
+          0.215686277,
+          0.5019608
+        ]
+      },
+      {
+        "id": "Condensed Carbon",
+        "amount": "10",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      },
+      {
+        "id": "Salt",
+        "amount": "10",
+        "color": [
+          0.117647059,
+          0.5411765,
+          0.258823544
+        ]
+      }
+    ],
+    "result": {
+      "id": "Enriched Carbon",
+      "amount": "1",
+      "color": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    }
+  },
+  {
+    "name": "High-Speed Sublimation",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Nitrogen",
+        "amount": "100",
+        "color": [
+          0.870588243,
+          0.572549045,
+          0.121568628
+        ]
+      },
+      {
+        "id": "Condensed Carbon",
+        "amount": "10",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      },
+      {
+        "id": "Salt",
+        "amount": "10",
+        "color": [
+          0.117647059,
+          0.5411765,
+          0.258823544
+        ]
+      }
+    ],
+    "result": {
+      "id": "Nitrogen Salt",
+      "amount": "1",
+      "color": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    }
+  },
+  {
+    "name": "High-Speed Sublimation",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Sulphurine",
+        "amount": "100",
+        "color": [
+          0.149019614,
+          0.368627459,
+          0.227450982
+        ]
+      },
+      {
+        "id": "Carbon",
+        "amount": "20",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      },
+      {
+        "id": "Chlorine",
+        "amount": "5",
+        "color": [
+          0.117647059,
+          0.5411765,
+          0.258823544
+        ]
+      }
+    ],
+    "result": {
+      "id": "Thermic Condensate",
+      "amount": "1",
+      "color": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    }
+  },
+  {
+    "name": "High-Speed Sublimation",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Radon",
+        "amount": "100",
+        "color": [
+          0.298039228,
+          0.215686277,
+          0.5019608
+        ]
+      },
+      {
+        "id": "Carbon",
+        "amount": "20",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      },
+      {
+        "id": "Chlorine",
+        "amount": "5",
+        "color": [
+          0.117647059,
+          0.5411765,
+          0.258823544
+        ]
+      }
+    ],
+    "result": {
+      "id": "Enriched Carbon",
+      "amount": "1",
+      "color": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    }
+  },
+  {
+    "name": "High-Speed Sublimation",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Nitrogen",
+        "amount": "100",
+        "color": [
+          0.870588243,
+          0.572549045,
+          0.121568628
+        ]
+      },
+      {
+        "id": "Carbon",
+        "amount": "20",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      },
+      {
+        "id": "Chlorine",
+        "amount": "5",
+        "color": [
+          0.117647059,
+          0.5411765,
+          0.258823544
+        ]
+      }
+    ],
+    "result": {
+      "id": "Nitrogen Salt",
+      "amount": "1",
+      "color": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    }
+  },
+  {
+    "name": "High-Speed Sublimation",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Sulphurine",
+        "amount": "100",
+        "color": [
+          0.149019614,
+          0.368627459,
+          0.227450982
+        ]
+      },
+      {
+        "id": "Condensed Carbon",
+        "amount": "10",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      },
+      {
+        "id": "Chlorine",
+        "amount": "5",
+        "color": [
+          0.117647059,
+          0.5411765,
+          0.258823544
+        ]
+      }
+    ],
+    "result": {
+      "id": "Thermic Condensate",
+      "amount": "1",
+      "color": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    }
+  },
+  {
+    "name": "High-Speed Sublimation",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Radon",
+        "amount": "100",
+        "color": [
+          0.298039228,
+          0.215686277,
+          0.5019608
+        ]
+      },
+      {
+        "id": "Condensed Carbon",
+        "amount": "10",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      },
+      {
+        "id": "Chlorine",
+        "amount": "5",
+        "color": [
+          0.117647059,
+          0.5411765,
+          0.258823544
+        ]
+      }
+    ],
+    "result": {
+      "id": "Enriched Carbon",
+      "amount": "1",
+      "color": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    }
+  },
+  {
+    "name": "High-Speed Sublimation",
+    "time": 20,
+    "ingredients": [
+      {
+        "id": "Nitrogen",
+        "amount": "100",
+        "color": [
+          0.870588243,
+          0.572549045,
+          0.121568628
+        ]
+      },
+      {
+        "id": "Condensed Carbon",
+        "amount": "10",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      },
+      {
+        "id": "Chlorine",
+        "amount": "5",
+        "color": [
+          0.117647059,
+          0.5411765,
+          0.258823544
+        ]
+      }
+    ],
+    "result": {
+      "id": "Nitrogen Salt",
+      "amount": "1",
+      "color": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    }
+  },
+  {
+    "name": "Inefficient Burn",
+    "time": 20,
+    "ingredients": [
+      {
+        "id": "Oxygen",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Carbon",
+      "amount": "1",
+      "color": [
+        0.733333349,
+        0.219607845,
+        0.1882353
+      ]
+    }
+  },
+  {
+    "name": "Ion Capture",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Ferrite Dust",
+        "amount": "10",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Silver",
+        "amount": "10",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Sodium",
+        "amount": "10",
+        "color": [
+          0.9490196,
+          0.427450985,
+          0.08235294
+        ]
+      }
+    ],
+    "result": {
+      "id": "Ion Battery",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Ionize Bulbs",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Marrow Bulb",
+        "amount": "1",
+        "color": [
+          0.356862754,
+          0.435294122,
+          0.20784314
+        ]
+      },
+      {
+        "id": "Cobalt",
+        "amount": "1",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      }
+    ],
+    "result": {
+      "id": "Ionized Cobalt",
+      "amount": "2",
+      "color": [
+        0,
+        0.360784322,
+        0.5137255
+      ]
+    }
+  },
+  {
+    "name": "Ionize Bulbs",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Marrow Bulb",
+        "amount": "1",
+        "color": [
+          0.356862754,
+          0.435294122,
+          0.20784314
+        ]
+      },
+      {
+        "id": "Ionized Cobalt",
+        "amount": "1",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      }
+    ],
+    "result": {
+      "id": "Ionized Cobalt",
+      "amount": "2",
+      "color": [
+        0,
+        0.360784322,
+        0.5137255
+      ]
+    }
+  },
+  {
+    "name": "Ionize Mineral",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Cobalt",
+        "amount": "2",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      }
+    ],
+    "result": {
+      "id": "Ionized Cobalt",
+      "amount": "1",
+      "color": [
+        0,
+        0.360784322,
+        0.5137255
+      ]
+    }
+  },
+  {
+    "name": "Loosen Bonds",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Sulphurine",
+        "amount": "1",
+        "color": [
+          0.149019614,
+          0.368627459,
+          0.227450982
+        ]
+      },
+      {
+        "id": "Ferrite Dust",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Paraffinium",
+      "amount": "1",
+      "color": [
+        0.305882365,
+        0.2509804,
+        0.309803933
+      ]
+    }
+  },
+  {
+    "name": "Loosen Bonds",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Sulphurine",
+        "amount": "1",
+        "color": [
+          0.149019614,
+          0.368627459,
+          0.227450982
+        ]
+      },
+      {
+        "id": "Pure Ferrite",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Paraffinium",
+      "amount": "2",
+      "color": [
+        0.305882365,
+        0.2509804,
+        0.309803933
+      ]
+    }
+  },
+  {
+    "name": "Loosen Bonds",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Sulphurine",
+        "amount": "1",
+        "color": [
+          0.149019614,
+          0.368627459,
+          0.227450982
+        ]
+      },
+      {
+        "id": "Magnetized Ferrite",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Paraffinium",
+      "amount": "3",
+      "color": [
+        0.305882365,
+        0.2509804,
+        0.309803933
+      ]
+    }
+  },
+  {
+    "name": "Magnetize Metal",
+    "time": 60,
+    "ingredients": [
+      {
+        "id": "Pure Ferrite",
+        "amount": "2",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Magnetized Ferrite",
+      "amount": "1",
+      "color": [
+        0.5411765,
+        0.498039216,
+        0.447058827
+      ]
+    }
+  },
+  {
+    "name": "Matter Expansion",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Ferrite Dust",
+        "amount": "2",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Pugneum",
+        "amount": "1",
+        "color": [
+          0.3019608,
+          0.160784319,
+          0.34117648
+        ]
+      }
+    ],
+    "result": {
+      "id": "Pure Ferrite",
+      "amount": "3",
+      "color": [
+        0.5411765,
+        0.498039216,
+        0.447058827
+      ]
+    }
+  },
+  {
+    "name": "Matter Expansion",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Pure Ferrite",
+        "amount": "2",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Pugneum",
+        "amount": "1",
+        "color": [
+          0.3019608,
+          0.160784319,
+          0.34117648
+        ]
+      }
+    ],
+    "result": {
+      "id": "Magnetized Ferrite",
+      "amount": "3",
+      "color": [
+        0.5411765,
+        0.498039216,
+        0.447058827
+      ]
+    }
+  },
+  {
+    "name": "Matter Expansion",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Magnetized Ferrite",
+        "amount": "3",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Pugneum",
+        "amount": "1",
+        "color": [
+          0.3019608,
+          0.160784319,
+          0.34117648
+        ]
+      }
+    ],
+    "result": {
+      "id": "Magnetized Ferrite",
+      "amount": "4",
+      "color": [
+        0.5411765,
+        0.498039216,
+        0.447058827
+      ]
+    }
+  },
+  {
+    "name": "Metal Enrichment",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Ferrite Dust",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Radon",
+        "amount": "1",
+        "color": [
+          0.298039228,
+          0.215686277,
+          0.5019608
+        ]
+      }
+    ],
+    "result": {
+      "id": "Uranium",
+      "amount": "1",
+      "color": [
+        1,
+        0.6784314,
+        0
+      ]
+    }
+  },
+  {
+    "name": "Metal Enrichment",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Radon",
+        "amount": "1",
+        "color": [
+          0.298039228,
+          0.215686277,
+          0.5019608
+        ]
+      },
+      {
+        "id": "Pure Ferrite",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Uranium",
+      "amount": "2",
+      "color": [
+        1,
+        0.6784314,
+        0
+      ]
+    }
+  },
+  {
+    "name": "Metal Enrichment",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Radon",
+        "amount": "1",
+        "color": [
+          0.298039228,
+          0.215686277,
+          0.5019608
+        ]
+      },
+      {
+        "id": "Magnetized Ferrite",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Uranium",
+      "amount": "3",
+      "color": [
+        1,
+        0.6784314,
+        0
+      ]
+    }
+  },
+  {
+    "name": "Metal Restructuring",
+    "time": 60,
+    "ingredients": [
+      {
+        "id": "Gold",
+        "amount": "1",
+        "color": [
+          0.6666667,
+          0.431372553,
+          0.0235294122
+        ]
+      }
+    ],
+    "result": {
+      "id": "Pyrite",
+      "amount": "1",
+      "color": [
+        0.8980392,
+        0.4392157,
+        0.007843138
+      ]
+    }
+  },
+  {
+    "name": "Mineral Alchemy",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Silver",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Oxygen",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Paraffinium",
+      "amount": "2",
+      "color": [
+        0.305882365,
+        0.2509804,
+        0.309803933
+      ]
+    }
+  },
+  {
+    "name": "Mineral Alchemy",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Gold",
+        "amount": "1",
+        "color": [
+          0.6666667,
+          0.431372553,
+          0.0235294122
+        ]
+      },
+      {
+        "id": "Oxygen",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Pyrite",
+      "amount": "2",
+      "color": [
+        0.8980392,
+        0.4392157,
+        0.007843138
+      ]
+    }
+  },
+  {
+    "name": "Mineral Alchemy",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Platinum",
+        "amount": "1",
+        "color": [
+          0.3137255,
+          0.458823532,
+          0.458823532
+        ]
+      },
+      {
+        "id": "Oxygen",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Magnetized Ferrite",
+      "amount": "10",
+      "color": [
+        0.5411765,
+        0.498039216,
+        0.447058827
+      ]
+    }
+  },
+  {
+    "name": "Nanite Extraction",
+    "time": 320,
+    "ingredients": [
+      {
+        "id": "Salvaged Data",
+        "amount": "1",
+        "color": [
+          0.101960786,
+          0.152941182,
+          0.2
+        ]
+      }
+    ],
+    "result": {
+      "id": "Nanite Cluster",
+      "amount": "15",
+      "color": [
+        0.117647059,
+        0.20784314,
+        0.305882365
+      ]
+    }
+  },
+  {
+    "name": "NOT RECOMMENDED",
+    "time": 60,
+    "ingredients": [
+      {
+        "id": "Larval Core",
+        "amount": "1",
+        "color": [
+          0.8,
+          0.8,
+          0.8
+        ]
+      }
+    ],
+    "result": {
+      "id": "Nanite Cluster",
+      "amount": "50",
+      "color": [
+        0.117647059,
+        0.20784314,
+        0.305882365
+      ]
+    }
+  },
+  {
+    "name": "Organic / Anomaly Synthesis",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Mordite",
+        "amount": "1",
+        "color": [
+          0.31764707,
+          0.152941182,
+          0.254901975
+        ]
+      },
+      {
+        "id": "Pugneum",
+        "amount": "1",
+        "color": [
+          0.3019608,
+          0.160784319,
+          0.34117648
+        ]
+      }
+    ],
+    "result": {
+      "id": "Gold",
+      "amount": "1",
+      "color": [
+        0.6666667,
+        0.431372553,
+        0.0235294122
+      ]
+    }
+  },
+  {
+    "name": "Organic Expansion",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Paraffinium",
+        "amount": "1",
+        "color": [
+          0.305882365,
+          0.2509804,
+          0.309803933
+        ]
+      },
+      {
+        "id": "Star Bulb",
+        "amount": "1",
+        "color": [
+          0.1254902,
+          0.5529412,
+          0.670588255
+        ]
+      }
+    ],
+    "result": {
+      "id": "Star Bulb",
+      "amount": "2",
+      "color": [
+        0.1254902,
+        0.5529412,
+        0.670588255
+      ]
+    }
+  },
+  {
+    "name": "Organic Expansion",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Pyrite",
+        "amount": "1",
+        "color": [
+          0.8980392,
+          0.4392157,
+          0.007843138
+        ]
+      },
+      {
+        "id": "Cactus Flesh",
+        "amount": "1",
+        "color": [
+          0.137254909,
+          0.5882353,
+          0.149019614
+        ]
+      }
+    ],
+    "result": {
+      "id": "Cactus Flesh",
+      "amount": "2",
+      "color": [
+        0.137254909,
+        0.5882353,
+        0.149019614
+      ]
+    }
+  },
+  {
+    "name": "Organic Expansion",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Ammonia",
+        "amount": "1",
+        "color": [
+          0,
+          0.6509804,
+          0.3019608
+        ]
+      },
+      {
+        "id": "Fungal Mold",
+        "amount": "1",
+        "color": [
+          0,
+          0.6509804,
+          0.3019608
+        ]
+      }
+    ],
+    "result": {
+      "id": "Fungal Mold",
+      "amount": "2",
+      "color": [
+        0,
+        0.6509804,
+        0.3019608
+      ]
+    }
+  },
+  {
+    "name": "Organic Expansion",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Uranium",
+        "amount": "1",
+        "color": [
+          1,
+          0.6784314,
+          0
+        ]
+      },
+      {
+        "id": "Gamma Root",
+        "amount": "1",
+        "color": [
+          0.772549033,
+          0.5294118,
+          0.113725491
+        ]
+      }
+    ],
+    "result": {
+      "id": "Gamma Root",
+      "amount": "2",
+      "color": [
+        0.772549033,
+        0.5294118,
+        0.113725491
+      ]
+    }
+  },
+  {
+    "name": "Organic Expansion",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Dioxite",
+        "amount": "1",
+        "color": [
+          0.117647059,
+          0.309803933,
+          0.8156863
+        ]
+      },
+      {
+        "id": "Frost Crystal",
+        "amount": "1",
+        "color": [
+          0.117647059,
+          0.309803933,
+          0.8156863
+        ]
+      }
+    ],
+    "result": {
+      "id": "Frost Crystal",
+      "amount": "2",
+      "color": [
+        0.117647059,
+        0.309803933,
+        0.8156863
+      ]
+    }
+  },
+  {
+    "name": "Organic Expansion",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Phosphorus",
+        "amount": "1",
+        "color": [
+          0.858823538,
+          0.141176477,
+          0
+        ]
+      },
+      {
+        "id": "Solanium",
+        "amount": "1",
+        "color": [
+          0.7254902,
+          0.2627451,
+          0.09411765
+        ]
+      }
+    ],
+    "result": {
+      "id": "Solanium",
+      "amount": "2",
+      "color": [
+        0.7254902,
+        0.2627451,
+        0.09411765
+      ]
+    }
+  },
+  {
+    "name": "Organic Fusion",
+    "time": 40,
+    "ingredients": [
+      {
+        "id": "Nitrogen",
+        "amount": "1",
+        "color": [
+          0.870588243,
+          0.572549045,
+          0.121568628
+        ]
+      },
+      {
+        "id": "Di-hydrogen",
+        "amount": "1",
+        "color": [
+          0.20784314,
+          0.3529412,
+          0.490196079
+        ]
+      }
+    ],
+    "result": {
+      "id": "Ammonia",
+      "amount": "1",
+      "color": [
+        0,
+        0.6509804,
+        0.3019608
+      ]
+    }
+  },
+  {
+    "name": "Organic Reassembly",
+    "time": 180,
+    "ingredients": [
+      {
+        "id": "Faecium",
+        "amount": "3",
+        "color": [
+          0.4745098,
+          0.3137255,
+          0.180392161
+        ]
+      }
+    ],
+    "result": {
+      "id": "Mordite",
+      "amount": "2",
+      "color": [
+        0.31764707,
+        0.152941182,
+        0.254901975
+      ]
+    }
+  },
+  {
+    "name": "Organic Reassembly",
+    "time": 20,
+    "ingredients": [
+      {
+        "id": "Di-hydrogen",
+        "amount": "1",
+        "color": [
+          0.20784314,
+          0.3529412,
+          0.490196079
+        ]
+      },
+      {
+        "id": "Condensed Carbon",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Mordite",
+      "amount": "1",
+      "color": [
+        0.31764707,
+        0.152941182,
+        0.254901975
+      ]
+    }
+  },
+  {
+    "name": "Oxidize Metal",
+    "time": 100,
+    "ingredients": [
+      {
+        "id": "Pure Ferrite",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Oxygen",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Rusted Metal",
+      "amount": "2",
+      "color": [
+        0.356862754,
+        0.435294122,
+        0.20784314
+      ]
+    }
+  },
+  {
+    "name": "Oxidize Metal",
+    "time": 100,
+    "ingredients": [
+      {
+        "id": "Ferrite Dust",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Oxygen",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Rusted Metal",
+      "amount": "1",
+      "color": [
+        0.356862754,
+        0.435294122,
+        0.20784314
+      ]
+    }
+  },
+  {
+    "name": "Oxygen Decompression",
+    "time": 200,
+    "ingredients": [
+      {
+        "id": "Superoxide Crystal",
+        "amount": "1",
+        "color": [
+          0.9529412,
+          0.6627451,
+          0.137254909
+        ]
+      }
+    ],
+    "result": {
+      "id": "Oxygen",
+      "amount": "150",
+      "color": [
+        0.733333349,
+        0.219607845,
+        0.1882353
+      ]
+    }
+  },
+  {
+    "name": "Oxygen Nucleation",
+    "time": 200,
+    "ingredients": [
+      {
+        "id": "Oxygen",
+        "amount": "100",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      },
+      {
+        "id": "Tritium",
+        "amount": "50",
+        "color": [
+          0.870588243,
+          0.8627451,
+          0.819607854
+        ]
+      }
+    ],
+    "result": {
+      "id": "Superoxide Crystal",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Oxygen Nucleation",
+    "time": 200,
+    "ingredients": [
+      {
+        "id": "Oxygen",
+        "amount": "40",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      },
+      {
+        "id": "Uranium",
+        "amount": "40",
+        "color": [
+          1,
+          0.6784314,
+          0
+        ]
+      },
+      {
+        "id": "Tritium",
+        "amount": "50",
+        "color": [
+          0.870588243,
+          0.8627451,
+          0.819607854
+        ]
+      }
+    ],
+    "result": {
+      "id": "Superoxide Crystal",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Oxygenate Carbon",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Carbon",
+        "amount": "2",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      },
+      {
+        "id": "Oxygen",
+        "amount": "2",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Condensed Carbon",
+      "amount": "5",
+      "color": [
+        0.733333349,
+        0.219607845,
+        0.1882353
+      ]
+    }
+  },
+  {
+    "name": "Oxygenate Carbon",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Condensed Carbon",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      },
+      {
+        "id": "Oxygen",
+        "amount": "2",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Condensed Carbon",
+      "amount": "6",
+      "color": [
+        0.733333349,
+        0.219607845,
+        0.1882353
+      ]
+    }
+  },
+  {
+    "name": "Oxygenate Microbes",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Faecium",
+        "amount": "1",
+        "color": [
+          0.4745098,
+          0.3137255,
+          0.180392161
+        ]
+      },
+      {
+        "id": "Oxygen",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Faecium",
+      "amount": "3",
+      "color": [
+        0.4745098,
+        0.3137255,
+        0.180392161
+      ]
+    }
+  },
+  {
+    "name": "Oxygenate Sodium",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Sodium",
+        "amount": "1",
+        "color": [
+          0.9490196,
+          0.427450985,
+          0.08235294
+        ]
+      },
+      {
+        "id": "Oxygen",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Sodium Nitrate",
+      "amount": "1",
+      "color": [
+        0.9490196,
+        0.427450985,
+        0.08235294
+      ]
+    }
+  },
+  {
+    "name": "Oxygenate Sodium",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Sodium Nitrate",
+        "amount": "1",
+        "color": [
+          0.9490196,
+          0.427450985,
+          0.08235294
+        ]
+      },
+      {
+        "id": "Oxygen",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Sodium Nitrate",
+      "amount": "2",
+      "color": [
+        0.9490196,
+        0.427450985,
+        0.08235294
+      ]
+    }
+  },
+  {
+    "name": "Plasma Pressurization",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Oxygen",
+        "amount": "10",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      },
+      {
+        "id": "Ferrite Dust",
+        "amount": "20",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Carbon",
+        "amount": "20",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Unstable Plasma",
+      "amount": "1",
+      "color": [
+        0.7529412,
+        0.09019608,
+        0.274509817
+      ]
+    }
+  },
+  {
+    "name": "Plasma Pressurization",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Oxygen",
+        "amount": "10",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      },
+      {
+        "id": "Ferrite Dust",
+        "amount": "20",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Condensed Carbon",
+        "amount": "10",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Unstable Plasma",
+      "amount": "1",
+      "color": [
+        0.7529412,
+        0.09019608,
+        0.274509817
+      ]
+    }
+  },
+  {
+    "name": "Plasma Pressurization",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Oxygen",
+        "amount": "10",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      },
+      {
+        "id": "Pure Ferrite",
+        "amount": "20",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Carbon",
+        "amount": "20",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Unstable Plasma",
+      "amount": "1",
+      "color": [
+        0.7529412,
+        0.09019608,
+        0.274509817
+      ]
+    }
+  },
+  {
+    "name": "Plasma Pressurization",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Oxygen",
+        "amount": "10",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      },
+      {
+        "id": "Condensed Carbon",
+        "amount": "10",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      },
+      {
+        "id": "Pure Ferrite",
+        "amount": "20",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Unstable Plasma",
+      "amount": "1",
+      "color": [
+        0.7529412,
+        0.09019608,
+        0.274509817
+      ]
+    }
+  },
+  {
+    "name": "Polish Crystals",
+    "time": 60,
+    "ingredients": [
+      {
+        "id": "Frost Crystal",
+        "amount": "40",
+        "color": [
+          0.117647059,
+          0.309803933,
+          0.8156863
+        ]
+      }
+    ],
+    "result": {
+      "id": "Glass",
+      "amount": "1",
+      "color": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    }
+  },
+  {
+    "name": "Process Sodium",
+    "time": 100,
+    "ingredients": [
+      {
+        "id": "Sodium",
+        "amount": "2",
+        "color": [
+          0.9490196,
+          0.427450985,
+          0.08235294
+        ]
+      }
+    ],
+    "result": {
+      "id": "Sodium Nitrate",
+      "amount": "1",
+      "color": [
+        0.9490196,
+        0.427450985,
+        0.08235294
+      ]
+    }
+  },
+  {
+    "name": "Pugneum Alchemy",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Faecium",
+        "amount": "1",
+        "color": [
+          0.4745098,
+          0.3137255,
+          0.180392161
+        ]
+      },
+      {
+        "id": "Pugneum",
+        "amount": "1",
+        "color": [
+          0.3019608,
+          0.160784319,
+          0.34117648
+        ]
+      }
+    ],
+    "result": {
+      "id": "Gold",
+      "amount": "2",
+      "color": [
+        0.6666667,
+        0.431372553,
+        0.0235294122
+      ]
+    }
+  },
+  {
+    "name": "Pugneum Washing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Marrow Bulb",
+        "amount": "1",
+        "color": [
+          0.356862754,
+          0.435294122,
+          0.20784314
+        ]
+      },
+      {
+        "id": "Pugneum",
+        "amount": "1",
+        "color": [
+          0.3019608,
+          0.160784319,
+          0.34117648
+        ]
+      }
+    ],
+    "result": {
+      "id": "Ionized Cobalt",
+      "amount": "2",
+      "color": [
+        0,
+        0.360784322,
+        0.5137255
+      ]
+    }
+  },
+  {
+    "name": "Pugneum Washing",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Kelp Sac",
+        "amount": "1",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Pugneum",
+        "amount": "1",
+        "color": [
+          0.3019608,
+          0.160784319,
+          0.34117648
+        ]
+      }
+    ],
+    "result": {
+      "id": "Chlorine",
+      "amount": "2",
+      "color": [
+        0.117647059,
+        0.5411765,
+        0.258823544
+      ]
+    }
+  },
+  {
+    "name": "Rapid Formation / Evaporation",
+    "time": 20,
+    "ingredients": [
+      {
+        "id": "Di-hydrogen",
+        "amount": "1",
+        "color": [
+          0.20784314,
+          0.3529412,
+          0.490196079
+        ]
+      },
+      {
+        "id": "Oxygen",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Salt",
+      "amount": "1",
+      "color": [
+        0.117647059,
+        0.5411765,
+        0.258823544
+      ]
+    }
+  },
+  {
+    "name": "Rare Metal Detoxification",
+    "time": 200,
+    "ingredients": [
+      {
+        "id": "Rare Metal Element",
+        "amount": "1",
+        "color": [
+          0.9529412,
+          0.6627451,
+          0.137254909
+        ]
+      }
+    ],
+    "result": {
+      "id": "Pure Ferrite",
+      "amount": "150",
+      "color": [
+        0.5411765,
+        0.498039216,
+        0.447058827
+      ]
+    }
+  },
+  {
+    "name": "Rare Metal Detoxification",
+    "time": 120,
+    "ingredients": [
+      {
+        "id": "Magnetized Ferrite",
+        "amount": "25",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Oxygen",
+        "amount": "50",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Rare Metal Element",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Rare Metal Fusion",
+    "time": 120,
+    "ingredients": [
+      {
+        "id": "Ferrite Dust",
+        "amount": "35",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Pure Ferrite",
+        "amount": "35",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Magnetized Ferrite",
+        "amount": "35",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Rare Metal Element",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Rare Metal Fusion",
+    "time": 200,
+    "ingredients": [
+      {
+        "id": "Oxygen",
+        "amount": "20",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      },
+      {
+        "id": "Magnetized Ferrite",
+        "amount": "20",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Tritium",
+        "amount": "25",
+        "color": [
+          0.870588243,
+          0.8627451,
+          0.819607854
+        ]
+      }
+    ],
+    "result": {
+      "id": "Rare Metal Element",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Reality Filtering",
+    "time": 30,
+    "ingredients": [
+      {
+        "id": "Pugneum",
+        "amount": "25",
+        "color": [
+          0.3019608,
+          0.160784319,
+          0.34117648
+        ]
+      }
+    ],
+    "result": {
+      "id": "Nanite Cluster",
+      "amount": "1",
+      "color": [
+        0.117647059,
+        0.20784314,
+        0.305882365
+      ]
+    }
+  },
+  {
+    "name": "Reality Warping",
+    "time": 60,
+    "ingredients": [
+      {
+        "id": "Platinum",
+        "amount": "35",
+        "color": [
+          0.3137255,
+          0.458823532,
+          0.458823532
+        ]
+      }
+    ],
+    "result": {
+      "id": "Nanite Cluster",
+      "amount": "1",
+      "color": [
+        0.117647059,
+        0.20784314,
+        0.305882365
+      ]
+    }
+  },
+  {
+    "name": "Recycle Waste Materials",
+    "time": 150,
+    "ingredients": [
+      {
+        "id": "Residual Goop",
+        "amount": "1",
+        "color": [
+          0.356862754,
+          0.435294122,
+          0.20784314
+        ]
+      }
+    ],
+    "result": {
+      "id": "Viscous Fluids",
+      "amount": "1",
+      "color": [
+        0.356862754,
+        0.435294122,
+        0.20784314
+      ]
+    }
+  },
+  {
+    "name": "Recycle Waste Materials",
+    "time": 150,
+    "ingredients": [
+      {
+        "id": "Runaway Mold",
+        "amount": "5",
+        "color": [
+          0.356862754,
+          0.435294122,
+          0.20784314
+        ]
+      }
+    ],
+    "result": {
+      "id": "Nanite Cluster",
+      "amount": "1",
+      "color": [
+        0.117647059,
+        0.20784314,
+        0.305882365
+      ]
+    }
+  },
+  {
+    "name": "Recycle Waste Materials",
+    "time": 160,
+    "ingredients": [
+      {
+        "id": "Rusted Metal",
+        "amount": "1",
+        "color": [
+          0.356862754,
+          0.435294122,
+          0.20784314
+        ]
+      }
+    ],
+    "result": {
+      "id": "Ferrite Dust",
+      "amount": "2",
+      "color": [
+        0.5411765,
+        0.498039216,
+        0.447058827
+      ]
+    }
+  },
+  {
+    "name": "Recycle Waste Materials",
+    "time": 150,
+    "ingredients": [
+      {
+        "id": "Living Slime",
+        "amount": "1",
+        "color": [
+          0.356862754,
+          0.435294122,
+          0.20784314
+        ]
+      }
+    ],
+    "result": {
+      "id": "Runaway Mold",
+      "amount": "1",
+      "color": [
+        0.356862754,
+        0.435294122,
+        0.20784314
+      ]
+    }
+  },
+  {
+    "name": "Recycle Waste Materials",
+    "time": 150,
+    "ingredients": [
+      {
+        "id": "Viscous Fluids",
+        "amount": "1",
+        "color": [
+          0.356862754,
+          0.435294122,
+          0.20784314
+        ]
+      }
+    ],
+    "result": {
+      "id": "Living Slime",
+      "amount": "1",
+      "color": [
+        0.356862754,
+        0.435294122,
+        0.20784314
+      ]
+    }
+  },
+  {
+    "name": "Release Captured Oxygen",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Kelp Sac",
+        "amount": "1",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Carbon",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Oxygen",
+      "amount": "2",
+      "color": [
+        0.733333349,
+        0.219607845,
+        0.1882353
+      ]
+    }
+  },
+  {
+    "name": "Release Captured Oxygen",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Kelp Sac",
+        "amount": "1",
+        "color": [
+          0,
+          0.360784322,
+          0.5137255
+        ]
+      },
+      {
+        "id": "Condensed Carbon",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Oxygen",
+      "amount": "2",
+      "color": [
+        0.733333349,
+        0.219607845,
+        0.1882353
+      ]
+    }
+  },
+  {
+    "name": "Release Carbon",
+    "time": 30,
+    "ingredients": [
+      {
+        "id": "Condensed Carbon",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      }
+    ],
+    "result": {
+      "id": "Carbon",
+      "amount": "2",
+      "color": [
+        0.733333349,
+        0.219607845,
+        0.1882353
+      ]
+    }
+  },
+  {
+    "name": "Runaway Decomposition",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Carbon",
+        "amount": "2",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      },
+      {
+        "id": "Mordite",
+        "amount": "1",
+        "color": [
+          0.31764707,
+          0.152941182,
+          0.254901975
+        ]
+      }
+    ],
+    "result": {
+      "id": "Faecium",
+      "amount": "3",
+      "color": [
+        0.4745098,
+        0.3137255,
+        0.180392161
+      ]
+    }
+  },
+  {
+    "name": "Runaway Decomposition",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Condensed Carbon",
+        "amount": "1",
+        "color": [
+          0.733333349,
+          0.219607845,
+          0.1882353
+        ]
+      },
+      {
+        "id": "Mordite",
+        "amount": "1",
+        "color": [
+          0.31764707,
+          0.152941182,
+          0.254901975
+        ]
+      }
+    ],
+    "result": {
+      "id": "Faecium",
+      "amount": "4",
+      "color": [
+        0.4745098,
+        0.3137255,
+        0.180392161
+      ]
+    }
+  },
+  {
+    "name": "Salt Crystal Polishing",
+    "time": 20,
+    "ingredients": [
+      {
+        "id": "Cyto-Phosphate",
+        "amount": "50",
+        "color": [
+          0.117647059,
+          0.5411765,
+          0.258823544
+        ]
+      },
+      {
+        "id": "Salt",
+        "amount": "50",
+        "color": [
+          0.117647059,
+          0.5411765,
+          0.258823544
+        ]
+      }
+    ],
+    "result": {
+      "id": "Glass",
+      "amount": "1",
+      "color": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    }
+  },
+  {
+    "name": "Salt Production",
+    "time": 60,
+    "ingredients": [
+      {
+        "id": "Chlorine",
+        "amount": "1",
+        "color": [
+          0.117647059,
+          0.5411765,
+          0.258823544
+        ]
+      }
+    ],
+    "result": {
+      "id": "Salt",
+      "amount": "2",
+      "color": [
+        0.117647059,
+        0.5411765,
+        0.258823544
+      ]
+    }
+  },
+  {
+    "name": "Sentinel Canalization",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Sodium",
+        "amount": "1",
+        "color": [
+          0.9490196,
+          0.427450985,
+          0.08235294
+        ]
+      },
+      {
+        "id": "Pugneum",
+        "amount": "1",
+        "color": [
+          0.3019608,
+          0.160784319,
+          0.34117648
+        ]
+      }
+    ],
+    "result": {
+      "id": "Sodium Nitrate",
+      "amount": "1",
+      "color": [
+        0.9490196,
+        0.427450985,
+        0.08235294
+      ]
+    }
+  },
+  {
+    "name": "Sentinel Canalization",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Sodium Nitrate",
+        "amount": "1",
+        "color": [
+          0.9490196,
+          0.427450985,
+          0.08235294
+        ]
+      },
+      {
+        "id": "Pugneum",
+        "amount": "1",
+        "color": [
+          0.3019608,
+          0.160784319,
+          0.34117648
+        ]
+      }
+    ],
+    "result": {
+      "id": "Sodium Nitrate",
+      "amount": "3",
+      "color": [
+        0.9490196,
+        0.427450985,
+        0.08235294
+      ]
+    }
+  },
+  {
+    "name": "Silicate Forging",
+    "time": 10,
+    "ingredients": [
+      {
+        "id": "Silicate Powder",
+        "amount": "40",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Glass",
+      "amount": "1",
+      "color": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    }
+  },
+  {
+    "name": "Sodium Destabilization",
+    "time": 120,
+    "ingredients": [
+      {
+        "id": "Sodium",
+        "amount": "50",
+        "color": [
+          0.9490196,
+          0.427450985,
+          0.08235294
+        ]
+      },
+      {
+        "id": "Sodium Nitrate",
+        "amount": "50",
+        "color": [
+          0.9490196,
+          0.427450985,
+          0.08235294
+        ]
+      }
+    ],
+    "result": {
+      "id": "Destabilized Sodium",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Sodium Destabilization",
+    "time": 200,
+    "ingredients": [
+      {
+        "id": "Sodium",
+        "amount": "40",
+        "color": [
+          0.9490196,
+          0.427450985,
+          0.08235294
+        ]
+      },
+      {
+        "id": "Sodium Nitrate",
+        "amount": "40",
+        "color": [
+          0.9490196,
+          0.427450985,
+          0.08235294
+        ]
+      },
+      {
+        "id": "Tritium",
+        "amount": "50",
+        "color": [
+          0.870588243,
+          0.8627451,
+          0.819607854
+        ]
+      }
+    ],
+    "result": {
+      "id": "Destabilized Sodium",
+      "amount": "1",
+      "color": [
+        0.9529412,
+        0.6627451,
+        0.137254909
+      ]
+    }
+  },
+  {
+    "name": "Sodium Stabilization",
+    "time": 200,
+    "ingredients": [
+      {
+        "id": "Destabilized Sodium",
+        "amount": "1",
+        "color": [
+          0.9529412,
+          0.6627451,
+          0.137254909
+        ]
+      }
+    ],
+    "result": {
+      "id": "Sodium Nitrate",
+      "amount": "150",
+      "color": [
+        0.9490196,
+        0.427450985,
+        0.08235294
+      ]
+    }
+  },
+  {
+    "name": "Stellar / Metal Fusion",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Indium",
+        "amount": "1",
+        "color": [
+          0.003921569,
+          0.219607845,
+          0.490196079
+        ]
+      },
+      {
+        "id": "Ferrite Dust",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Magnetized Ferrite",
+      "amount": "4",
+      "color": [
+        0.5411765,
+        0.498039216,
+        0.447058827
+      ]
+    }
+  },
+  {
+    "name": "Stellar / Metal Fusion",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Cadmium",
+        "amount": "1",
+        "color": [
+          0.482352942,
+          0,
+          0
+        ]
+      },
+      {
+        "id": "Ferrite Dust",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Magnetized Ferrite",
+      "amount": "2",
+      "color": [
+        0.5411765,
+        0.498039216,
+        0.447058827
+      ]
+    }
+  },
+  {
+    "name": "Stellar / Metal Fusion",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Emeril",
+        "amount": "1",
+        "color": [
+          0.211764708,
+          0.380392164,
+          0.109803922
+        ]
+      },
+      {
+        "id": "Ferrite Dust",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Magnetized Ferrite",
+      "amount": "3",
+      "color": [
+        0.5411765,
+        0.498039216,
+        0.447058827
+      ]
+    }
+  },
+  {
+    "name": "Stellar / Metal Fusion",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Copper",
+        "amount": "1",
+        "color": [
+          0.8980392,
+          0.5647059,
+          0.003921569
+        ]
+      },
+      {
+        "id": "Ferrite Dust",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Magnetized Ferrite",
+      "amount": "1",
+      "color": [
+        0.5411765,
+        0.498039216,
+        0.447058827
+      ]
+    }
+  },
+  {
+    "name": "Stellar / Metal Fusion",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Activated Cadmium",
+        "amount": "1",
+        "color": [
+          0.482352942,
+          0,
+          0
+        ]
+      },
+      {
+        "id": "Ferrite Dust",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Magnetized Ferrite",
+      "amount": "4",
+      "color": [
+        0.5411765,
+        0.498039216,
+        0.447058827
+      ]
+    }
+  },
+  {
+    "name": "Stellar / Metal Fusion",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Activated Indium",
+        "amount": "1",
+        "color": [
+          0.003921569,
+          0.219607845,
+          0.490196079
+        ]
+      },
+      {
+        "id": "Ferrite Dust",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Magnetized Ferrite",
+      "amount": "8",
+      "color": [
+        0.5411765,
+        0.498039216,
+        0.447058827
+      ]
+    }
+  },
+  {
+    "name": "Stellar / Metal Fusion",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Activated Emeril",
+        "amount": "1",
+        "color": [
+          0.211764708,
+          0.380392164,
+          0.109803922
+        ]
+      },
+      {
+        "id": "Ferrite Dust",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Magnetized Ferrite",
+      "amount": "6",
+      "color": [
+        0.5411765,
+        0.498039216,
+        0.447058827
+      ]
+    }
+  },
+  {
+    "name": "Stellar / Metal Fusion",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Activated Copper",
+        "amount": "1",
+        "color": [
+          0.8980392,
+          0.5647059,
+          0.003921569
+        ]
+      },
+      {
+        "id": "Ferrite Dust",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Magnetized Ferrite",
+      "amount": "2",
+      "color": [
+        0.5411765,
+        0.498039216,
+        0.447058827
+      ]
+    }
+  },
+  {
+    "name": "Sulphur Injection",
+    "time": 40,
+    "ingredients": [
+      {
+        "id": "Sulphurine",
+        "amount": "1",
+        "color": [
+          0.149019614,
+          0.368627459,
+          0.227450982
+        ]
+      },
+      {
+        "id": "Di-hydrogen",
+        "amount": "1",
+        "color": [
+          0.20784314,
+          0.3529412,
+          0.490196079
+        ]
+      }
+    ],
+    "result": {
+      "id": "Solanium",
+      "amount": "1",
+      "color": [
+        0.7254902,
+        0.2627451,
+        0.09411765
+      ]
+    }
+  },
+  {
+    "name": "Sulphur Release",
+    "time": 60,
+    "ingredients": [
+      {
+        "id": "Crystal Sulphide",
+        "amount": "1",
+        "color": [
+          0.8,
+          0.8,
+          0.8
+        ]
+      }
+    ],
+    "result": {
+      "id": "Sodium Nitrate",
+      "amount": "50",
+      "color": [
+        0.9490196,
+        0.427450985,
+        0.08235294
+      ]
+    }
+  },
+  {
+    "name": "Transmutation",
+    "time": 60,
+    "ingredients": [
+      {
+        "id": "Gold",
+        "amount": "1",
+        "color": [
+          0.6666667,
+          0.431372553,
+          0.0235294122
+        ]
+      },
+      {
+        "id": "Silver",
+        "amount": "1",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      }
+    ],
+    "result": {
+      "id": "Platinum",
+      "amount": "1",
+      "color": [
+        0.3137255,
+        0.458823532,
+        0.458823532
+      ]
+    }
+  },
+  {
+    "name": "Transmutation",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Silver",
+        "amount": "15",
+        "color": [
+          0.5411765,
+          0.498039216,
+          0.447058827
+        ]
+      },
+      {
+        "id": "Gold",
+        "amount": "15",
+        "color": [
+          0.6666667,
+          0.431372553,
+          0.0235294122
+        ]
+      },
+      {
+        "id": "Platinum",
+        "amount": "25",
+        "color": [
+          0.3137255,
+          0.458823532,
+          0.458823532
+        ]
+      }
+    ],
+    "result": {
+      "id": "Nanite Cluster",
+      "amount": "1",
+      "color": [
+        0.117647059,
+        0.20784314,
+        0.305882365
+      ]
+    }
+  },
+  {
+    "name": "Tritium Cycling",
+    "time": 90,
+    "ingredients": [
+      {
+        "id": "Tritium",
+        "amount": "5",
+        "color": [
+          0.870588243,
+          0.8627451,
+          0.819607854
+        ]
+      }
+    ],
+    "result": {
+      "id": "Di-hydrogen",
+      "amount": "1",
+      "color": [
+        0.20784314,
+        0.3529412,
+        0.490196079
+      ]
+    }
+  }
+]

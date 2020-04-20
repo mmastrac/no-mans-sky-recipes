@@ -1,0 +1,14 @@
+{
+  "name": "nms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Mastracci <matthew@mastracci.com> (http://grack.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
