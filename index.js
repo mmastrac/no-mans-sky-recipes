@@ -146,7 +146,7 @@ function writeHtml(recipes) {
     const head = $('head');
     head.append($('<title>').text("Recipes"));
     head.append($('<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@500&display=swap" rel="stylesheet">'));
-    head.append($('<style>* { font-family: "Heebo", sans-serif; }</style>'));
+    head.append($('<style>html { background-color: white; } * { font-family: "Heebo", sans-serif; }</style>'));
     const body = $('body');
     $('<h1>').text("No Man's Sky Recipes").appendTo(body);
     const table = $('<table>').appendTo(body);
