@@ -20,6 +20,14 @@ function extractIngredient($) {
     };
 }
 
+function extractIngredientTech($) {
+    const type = extractValue(extractChildren($, "InventoryType"), "InventoryType");
+    return {
+        id: [type, extractValue($, "ID")],
+        amount: extractValue($, "Amount"),
+    };
+}
+
 function extractColor($) {
     const color = extractChildren($, "Colour");
     const r = +extractValue(color, "R");
@@ -35,7 +43,7 @@ function processText($, o) {
 
 function processRecipe($, o) {
     const id = extractValue($, "Id");
-    if (extractValue($, "Cooking") == "False") {
+    // if (extractValue($, "Cooking") == "False") {
         let result = extractIngredient(extractChildren($, "Result"));
         let ingredients = Array.from(extractChildren($, "Ingredients").children().map((_, child) => {
             child = $.find(child);
@@ -47,7 +55,24 @@ function processRecipe($, o) {
             ingredients: ingredients,
             result: result
         };
-    }
+    //}
+}
+
+function processTech($, o) {
+    const id = extractValue($, "ID");
+    const color = extractColor($, "Colour");
+    let ingredients = Array.from(extractChildren($, "Requirements").children().map((_, child) => {
+        child = $.find(child);
+        return extractIngredientTech(child);
+    }));
+    o[id] = {
+        name: extractValue($, "NameLower"),
+        color: color,
+        ingredients: ingredients,
+        result: {
+            id: ["Tech", id],
+            amount: 1},
+    };
 }
 
 function processSubstance($, o) {
@@ -62,11 +87,20 @@ function processSubstance($, o) {
 function processProduct($, o) {
     const id = extractValue($, "Id");
     const color = extractColor($, "Colour");
+    let ingredients = Array.from(extractChildren($, "Requirements").children().map((_, child) => {
+        child = $.find(child);
+        return extractIngredientTech(child);
+    }));
     o[id] = {
         name: extractValue($, "NameLower"),
         color: color,
+        ingredients: ingredients,
+        result: {
+            id: ["Product", id],
+            amount: 1},
     };
 }
+
 
 async function loadTables(dir) {
     const objects = {
@@ -74,6 +108,7 @@ async function loadTables(dir) {
         "GcRefinerRecipe.xml": { f: processRecipe, o: {} },
         "GcRealitySubstanceData.xml": { f: processSubstance, o: {} },
         "GcProductData.xml": { f: processProduct, o: {} },
+        "GcTechnology.xml": {f: processTech, o: {} },
     };
     const names = (await readdir(dir)).filter((f) => {
         if (f.toLowerCase().endsWith(".exml")) {
@@ -94,14 +129,15 @@ async function loadTables(dir) {
     });
     await Promise.all(tables);
 
-    const rawRecipes = objects["GcRefinerRecipe.xml"].o;
+    const rawRecipes = Object.assign(objects["GcRefinerRecipe.xml"].o, objects["GcTechnology.xml"].o, objects["GcProductData.xml"].o)
     const strings = objects["TkLocalisationEntry.xml"].o;
     const substances = {
         "Substance": objects["GcRealitySubstanceData.xml"].o,
         "Product": objects["GcProductData.xml"].o,
+        "Tech": objects["GcTechnology.xml"].o,
     }
     const recipes = [];
-
+    
     function mapIngredient(ingredient) {
         const substance = substances[ingredient.id[0]][ingredient.id[1]];
         if (!substance) {
@@ -119,6 +155,9 @@ async function loadTables(dir) {
             mapIngredient(ingredient);
         });
         recipe.name = strings[recipe.name];
+        if (recipe.name == undefined) {
+            recipe.name = "Unknown: " + recipe["result"].id
+        }
         recipe.name = recipe.name.replace("Requested Operation: ", "");
         recipes.push(recipe);
     }
@@ -157,11 +196,13 @@ function writeHtml(recipes) {
 
     recipes.sort((a, b) => {
         if (a.result.id == b.result.id) {
-            if (a.ingredients.length == b.ingredients.length) {
-                if (a.result.amount == b.result.amount) {
-                    return a.ingredients[0].id.localeCompare(b.ingredients[0].id);
+            if (a.ingredient && b.ingredient){
+                if (a.ingredients.length == b.ingredients.length) {
+                    if (a.result.amount == b.result.amount) {
+                        return a.ingredients[0].id.localeCompare(b.ingredients[0].id);
+                    }
+                    return a.result.amount - b.result.amount;
                 }
-                return a.result.amount - b.result.amount;
             }
             return a.ingredients.length - b.ingredients.length;
         }
