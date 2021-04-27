@@ -38,7 +38,7 @@ function extractColor($) {
 
 function processText($, o) {
     const id = extractValue($, "Id");
-    o[id] = $.find('Property[name="English"]').find('Property').attr('value').trim();
+    o[id] = $.find('Property[name="USEnglish"]').find('Property').attr('value').trim();
 }
 
 function processRecipe($, o) {
