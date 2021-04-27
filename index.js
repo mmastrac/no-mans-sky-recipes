@@ -43,7 +43,7 @@ function processText($, o) {
 
 function processRecipe($, o) {
     const id = extractValue($, "Id");
-    if (extractValue($, "Cooking") == "False") {
+    // if (extractValue($, "Cooking") == "False") {
         let result = extractIngredient(extractChildren($, "Result"));
         let ingredients = Array.from(extractChildren($, "Ingredients").children().map((_, child) => {
             child = $.find(child);
@@ -55,7 +55,7 @@ function processRecipe($, o) {
             ingredients: ingredients,
             result: result
         };
-    }
+    //}
 }
 
 function processTech($, o) {
@@ -137,7 +137,7 @@ async function loadTables(dir) {
         "Tech": objects["GcTechnology.xml"].o,
     }
     const recipes = [];
-
+    
     function mapIngredient(ingredient) {
         const substance = substances[ingredient.id[0]][ingredient.id[1]];
         if (!substance) {
@@ -157,7 +157,6 @@ async function loadTables(dir) {
         recipe.name = strings[recipe.name];
         if (recipe.name == undefined) {
             recipe.name = "Unknown: " + recipe["result"].id
-            console.log("->", recipe.name)
         }
         recipe.name = recipe.name.replace("Requested Operation: ", "");
         recipes.push(recipe);
@@ -197,11 +196,13 @@ function writeHtml(recipes) {
 
     recipes.sort((a, b) => {
         if (a.result.id == b.result.id) {
-            if (a.ingredients.length == b.ingredients.length) {
-                if (a.result.amount == b.result.amount) {
-                    return a.ingredients[0].id.localeCompare(b.ingredients[0].id);
+            if (a.ingredient && b.ingredient){
+                if (a.ingredients.length == b.ingredients.length) {
+                    if (a.result.amount == b.result.amount) {
+                        return a.ingredients[0].id.localeCompare(b.ingredients[0].id);
+                    }
+                    return a.result.amount - b.result.amount;
                 }
-                return a.result.amount - b.result.amount;
             }
             return a.ingredients.length - b.ingredients.length;
         }
@@ -239,8 +240,8 @@ async function go() {
     writeText(recipes);
     console.error("Wrote docs/recipes.txt");
 
-    // writeHtml(recipes);
-    // console.error("Wrote docs/index.html");
+    writeHtml(recipes);
+    console.error("Wrote docs/index.html");
 }
 
 go();
